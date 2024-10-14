@@ -39,5 +39,5 @@ jobstats "$USER" "$days" > "$jobs_file"
 cd ../scripts
 
 # Run the python script
-python slurm_stats.py --stats_file_dir "$slurm_stats_files_dir" --acct "$accounts_file" --jobs_stats "$jobs_file" --days "$days" --user "$USER" --top_n "$n"
+python slurm_stats.py --acct "$accounts_file" --jobs_stats "$jobs_file" --days "$days" --user "$USER" --top_n "$n"
 
