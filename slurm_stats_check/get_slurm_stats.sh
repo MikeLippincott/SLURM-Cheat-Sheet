@@ -28,8 +28,8 @@ slurm_stats_files_dir="slurm_stats_files"
 # make the dir if it does not exist
 mkdir -p "$slurm_stats_files_dir"
 
-accounts_file="$slurm_stats_files_dir/$(date +%Y-%m-%d_%H:%M:%S)_accounts_date.csv"
-jobs_file="$slurm_stats_files_dir/$(date +%Y-%m-%d_%H:%M:%S)_jobs_date.csv"
+accounts_file="${slurm_stats_files_dir}/$(date +%Y-%m-%d_%H:%M:%S)_accounts_date.csv"
+jobs_file="${slurm_stats_files_dir}/$(date +%Y-%m-%d_%H:%M:%S)_jobs_date.csv"
 
 # Get the accounts and jobs data
 suacct amc-general "$days" > "$accounts_file"
