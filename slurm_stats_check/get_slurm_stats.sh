@@ -35,7 +35,7 @@ jobs_file="${slurm_stats_files_dir}/$(date +%Y-%m-%d_%H:%M:%S)_jobs_date.csv"
 suacct amc-general "$days" > "$accounts_file"
 jobstats "$USER" "$days" > "$jobs_file"
 
-cd ../scripts
+cd scripts
 
 # Run the python script
 python slurm_stats.py --acct "$accounts_file" --jobs_stats "$jobs_file" --days "$days" --user "$USER" --top_n "$n"
