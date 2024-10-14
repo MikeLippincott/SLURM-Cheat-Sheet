@@ -28,15 +28,17 @@ slurm_stats_files_dir="slurm_stats_files"
 # make the dir if it does not exist
 mkdir -p "$slurm_stats_files_dir"
 
-accounts_file="${slurm_stats_files_dir}/$(date +%Y-%m-%d_%H:%M:%S)_accounts_date.csv"
-jobs_file="${slurm_stats_files_dir}/$(date +%Y-%m-%d_%H:%M:%S)_jobs_date.csv"
+cd "$slurm_stats_files_dir"
+
+accounts_file="$(date +%Y-%m-%d_%H:%M:%S)_accounts_date.csv"
+jobs_file="$(date +%Y-%m-%d_%H:%M:%S)_jobs_date.csv"
 
 # Get the accounts and jobs data
 suacct amc-general "$days" > "$accounts_file"
 jobstats "$USER" "$days" > "$jobs_file"
 
-cd scripts
+cd ../scripts
 
 # Run the python script
-python slurm_stats.py --acct "$accounts_file" --jobs_stats "$jobs_file" --days "$days" --user "$USER" --top_n "$n"
+python slurm_stats.py --stats_file_dir "$slurm_stats_files_dir" --acct "$accounts_file" --jobs_stats "$jobs_file" --days "$days" --user "$USER" --top_n "$n"
 
