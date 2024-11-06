@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
+# In[ ]:
 
 
 import argparse
@@ -10,7 +10,13 @@ import pathlib
 import pandas as pd
 
 
-# In[2]:
+# In[ ]:
+
+
+stats_file_dir = pathlib.Path("../slurm_stats_files").resolve(strict=True)
+
+
+# In[ ]:
 
 
 # set up the argument parser
@@ -38,10 +44,8 @@ days = args.days
 user = args.user
 n = args.top_n
 
-stats_file_dir = pathlib.Path("../slurm_stats_files").resolve(strict=True)
 
-
-# In[3]:
+# In[ ]:
 
 
 # read the file the first row has the column names and the rest of the rows are the data
@@ -70,7 +74,7 @@ print(f"Top {n} users by usage for the last {days} days")
 print(df.head(n))
 
 
-# In[4]:
+# In[ ]:
 
 
 # load the job stats file
@@ -101,7 +105,7 @@ df["wait"] = df["wait"].astype(float)
 df["wait_units"] = df["wait_units"].astype(str)
 
 
-# In[5]:
+# In[ ]:
 
 
 # calculate the total wait time in hours
@@ -111,7 +115,7 @@ print(
 )
 
 
-# In[6]:
+# In[ ]:
 
 
 # get counts for jobs on each partition types

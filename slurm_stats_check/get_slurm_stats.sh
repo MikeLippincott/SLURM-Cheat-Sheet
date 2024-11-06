@@ -16,7 +16,7 @@ conda init bash
 
 days=30
 USER="$USER"
-n=25
+n=50
 
 # load env
 conda activate slurm_stats_env

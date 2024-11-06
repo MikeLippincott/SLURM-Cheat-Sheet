@@ -1,0 +1,78 @@
+no change     /curc/sw/anaconda3/2023.09/condabin/conda
+no change     /curc/sw/anaconda3/2023.09/bin/conda
+no change     /curc/sw/anaconda3/2023.09/bin/conda-env
+no change     /curc/sw/anaconda3/2023.09/bin/activate
+no change     /curc/sw/anaconda3/2023.09/bin/deactivate
+no change     /curc/sw/anaconda3/2023.09/etc/profile.d/conda.sh
+no change     /curc/sw/anaconda3/2023.09/etc/fish/conf.d/conda.fish
+no change     /curc/sw/anaconda3/2023.09/shell/condabin/Conda.psm1
+no change     /curc/sw/anaconda3/2023.09/shell/condabin/conda-hook.ps1
+no change     /curc/sw/anaconda3/2023.09/lib/python3.11/site-packages/xontrib/conda.xsh
+no change     /curc/sw/anaconda3/2023.09/etc/profile.d/conda.csh
+modified      /home/mlippincott@xsede.org/.bashrc
+
+==> For changes to take effect, close and re-open your current shell. <==
+
+[NbConvertApp] Converting notebook notebooks/slurm_stats.ipynb to script
+[NbConvertApp] Writing 2997 bytes to scripts/slurm_stats.py
+Top 50 users by usage for the last 30 days
+                       Login          Proper Name    Used
+1           jinamo@xsede.org            Jun Inamo  209876
+2          ksamart@xsede.org       Kewalin Samart  120331
+3          jmejia1@xsede.org           Josh Mejia   89451
+4          aburtis@xsede.org      Abbigayl Burtis   66388
+5        jonpitsch@xsede.org      Jonathan Pitsch   35221
+6      mlippincott@xsede.org  Micahael Lippincott   33807
+7           aivich@xsede.org        Adriana Ivich   23423
+8          swhite3@xsede.org       Samantha White   15166
+9         joconnor@xsede.org        John O'Connor   10415
+10            ceck@xsede.org           Connor Eck    9383
+11         agillen@xsede.org        Austin Gillen    7292
+12          abrack@xsede.org         Alison Brack    5282
+13      kvinodpaul@xsede.org           Kiran Paul    4778
+14           ewall@xsede.org           Elena Wall    4566
+15        tdanhorn@xsede.org       Thomas Danhorm    4259
+16         aghosh5@xsede.org       Abhirupa Ghosh    3906
+17          sslack@xsede.org          Sarah Slack    3231
+18            sren@xsede.org           Siyang Ren    2972
+19          kjames@xsede.org        Kristen James    2864
+20       njohnson2@xsede.org         Noah Johnson    2827
+21           aeg22@xsede.org     Andrew Goodspeed    2619
+22         mfisher@xsede.org       Matthew Fisher    2473
+23         yveturi@xsede.org  Yoga Advaith Veturi    2234
+24   kwellswrasman@xsede.org        Kristen Wells    1963
+25       ebrenner1@xsede.org         Evan Brenner    1644
+26          morman@xsede.org           Mike Orman    1534
+27        ebaschal@xsede.org         Erin Baschal    1445
+28   lvanderlinden@xsede.org  Lauren Vanderlinden    1246
+29           jinen@xsede.org         Jeffrey Inen    1211
+30             xsu@xsede.org             Xilin Su    1110
+31        brunetti@xsede.org       Tonya Brunetti     972
+32         elucero@xsede.org       Esteban Lucero     918
+33         mmchugo@xsede.org       Maureen McHugo     796
+34        jhendrix@xsede.org    Josephina Hendrix     786
+35          chill1@xsede.org     Christopher Hill     781
+36         jyoung1@xsede.org           Jade Young     562
+37          tdoan1@xsede.org             Thu Doan     494
+38  ldebritovargas@xsede.org       Luciana Vargas     426
+39         mfoster@xsede.org            MJ Foster     399
+40    etiennedanis@xsede.org        Etienne Danis     362
+41      zbedrosian@xsede.org        Zoe Bedrosian     345
+42          akakar@xsede.org         Aastha Kakar     325
+43       rkrishna1@xsede.org      Revanth Krishna     287
+44       mdantonio@xsede.org        Marc DAntonio     279
+45        smentzer@xsede.org        Sarah Mentzer     263
+46        kterwelp@xsede.org     Katerina Terwelp     250
+47         mmatsuo@xsede.org        Minami Matsuo     247
+48         stifour@xsede.org         Souha Tifour     242
+49         ewolfe1@xsede.org          Ethan Wolfe     191
+50         eboyer1@xsede.org          Emily Boyer     152
+mlippincott@xsede.org has waited a total of 1324.0 hours in queue in the last 30 days
+Job counts by partition for the last 30 days
+partition
+amilan      119892
+aa100           95
+acompile        23
+atesting        20
+ami100           4
+Name: count, dtype: int64

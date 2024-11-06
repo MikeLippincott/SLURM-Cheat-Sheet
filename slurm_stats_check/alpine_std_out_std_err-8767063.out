@@ -1,0 +1,77 @@
+no change     /curc/sw/anaconda3/2023.09/condabin/conda
+no change     /curc/sw/anaconda3/2023.09/bin/conda
+no change     /curc/sw/anaconda3/2023.09/bin/conda-env
+no change     /curc/sw/anaconda3/2023.09/bin/activate
+no change     /curc/sw/anaconda3/2023.09/bin/deactivate
+no change     /curc/sw/anaconda3/2023.09/etc/profile.d/conda.sh
+no change     /curc/sw/anaconda3/2023.09/etc/fish/conf.d/conda.fish
+no change     /curc/sw/anaconda3/2023.09/shell/condabin/Conda.psm1
+no change     /curc/sw/anaconda3/2023.09/shell/condabin/conda-hook.ps1
+no change     /curc/sw/anaconda3/2023.09/lib/python3.11/site-packages/xontrib/conda.xsh
+no change     /curc/sw/anaconda3/2023.09/etc/profile.d/conda.csh
+no change     /home/mlippincott@xsede.org/.bashrc
+No action taken.
+[NbConvertApp] Converting notebook notebooks/slurm_stats.ipynb to script
+[NbConvertApp] Writing 2997 bytes to scripts/slurm_stats.py
+Top 50 users by usage for the last 600 days
+                      Login             Proper Name     Used
+1          jinamo@xsede.org               Jun Inamo  9911287
+2          cclark@xsede.org       Christopher Clark  1364397
+3         jmejia1@xsede.org              Josh Mejia  1018894
+4       jonpitsch@xsede.org         Jonathan Pitsch   993600
+5     mlippincott@xsede.org     Micahael Lippincott   881906
+6         skinder@xsede.org            Scott Kinder   743521
+7           mduff@xsede.org              Megan Duff   498853
+8         elucero@xsede.org          Esteban Lucero   468704
+9       sandersen@xsede.org         Shelby Andersen   461481
+10        ywang12@xsede.org                Yue Wang   441624
+11       brunetti@xsede.org          Tonya Brunetti   413226
+12       tdanhorn@xsede.org          Thomas Danhorm   390576
+13      jcardwell@xsede.org       Jonathan Cardwell   379646
+14     grahampeet@xsede.org             Graham Peet   277011
+15        stifour@xsede.org            Souha Tifour   275998
+16        mfisher@xsede.org          Matthew Fisher   257697
+17        mmchugo@xsede.org          Maureen McHugo   233158
+18       nrafaels@xsede.org            Nick Rafaels   195704
+19        ksamart@xsede.org          Kewalin Samart   171967
+20         kfotso@xsede.org             Kevin Fotso   145672
+21        swhite3@xsede.org          Samantha White   142369
+22         sslack@xsede.org             Sarah Slack   134099
+23        agillen@xsede.org           Austin Gillen   132394
+24       sniemiec@xsede.org          Sierra Niemiec   124038
+25      uthakuria@xsede.org        Upasana Thakuria    93516
+26      kriemondy@xsede.org           Kent Riemondy    93136
+27       agupta06@xsede.org             Arnav Gupta    74300
+28        aburtis@xsede.org         Abbigayl Burtis    66388
+29      jhoffman2@xsede.org            Jill Hoffman    59916
+30       sreynoso@xsede.org        Samantha Reynoso    59759
+31      mboorgula@xsede.org  Meher Preethi Boorgula    55357
+32       chuangqi@xsede.org           Chuangqi Wang    54591
+33        scohen1@xsede.org            Shirli Cohen    54064
+34         aivich@xsede.org           Adriana Ivich    53694
+35        jyoung1@xsede.org              Jade Young    51876
+36  kwellswrasman@xsede.org           Kristen Wells    47460
+37      ebrenner1@xsede.org            Evan Brenner    45309
+38      rkrishna1@xsede.org         Revanth Krishna    43217
+39        egeiger@xsede.org        Elizabeth Geiger    42949
+40        yveturi@xsede.org     Yoga Advaith Veturi    41757
+41    ikonigsberg@xsede.org         Iain Konigsberg    40033
+42        yozekin@xsede.org            Yunus Ozekin    36855
+43         chill1@xsede.org        Christopher Hill    34172
+44          rdoss@xsede.org               Rose Doss    33624
+45       joconnor@xsede.org           John O'Connor    32885
+46          jchau@xsede.org             Joanna Chau    25401
+47          jkrol@xsede.org              Jacob Krol    22868
+48        djones1@xsede.org             David Jones    20324
+49        hsmith1@xsede.org             Harry Smith    19860
+50   etiennedanis@xsede.org           Etienne Danis    19562
+mlippincott@xsede.org has waited a total of 199102.0 hours in queue in the last 600 days
+Job counts by partition for the last 600 days
+partition
+amilan      162317
+amem         24308
+aa100          101
+acompile        70
+atesting        20
+ami100           4
+Name: count, dtype: int64
