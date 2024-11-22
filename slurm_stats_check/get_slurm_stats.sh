@@ -14,7 +14,7 @@ module load anaconda
 
 conda init bash
 
-days=30
+days=600
 USER="$USER"
 n=50
 

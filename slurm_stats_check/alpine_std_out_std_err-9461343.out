@@ -1,0 +1,121 @@
+mkdir: cannot create directory '/projects/mili0001_amc': Permission denied
+mkdir: cannot create directory '/scratch/alpine/mili0001_amc': Permission denied
+cp: cannot create regular file '/home/mili0001_amc/.condarc': No such file or directory
+mkdir: cannot create directory '/projects/mili0001_amc': Permission denied
+mkdir: cannot create directory '/scratch/alpine/mili0001_amc': Permission denied
+cp: cannot create regular file '/home/mili0001_amc/.condarc': No such file or directory
+
+# >>>>>>>>>>>>>>>>>>>>>> ERROR REPORT <<<<<<<<<<<<<<<<<<<<<<
+
+    Traceback (most recent call last):
+      File "/curc/sw/anaconda3/2023.09/lib/python3.11/site-packages/conda/exception_handler.py", line 17, in __call__
+        return func(*args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^
+      File "/curc/sw/anaconda3/2023.09/lib/python3.11/site-packages/conda/cli/main.py", line 64, in main_subshell
+        exit_code = do_call(args, parser)
+                    ^^^^^^^^^^^^^^^^^^^^^
+      File "/curc/sw/anaconda3/2023.09/lib/python3.11/site-packages/conda/cli/conda_argparse.py", line 167, in do_call
+        result = getattr(module, func_name)(args, parser)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/curc/sw/anaconda3/2023.09/lib/python3.11/site-packages/conda/cli/main_init.py", line 36, in execute
+        return initialize(
+               ^^^^^^^^^^^
+      File "/curc/sw/anaconda3/2023.09/lib/python3.11/site-packages/conda/core/initialize.py", line 137, in initialize
+        run_plan_elevated(plan2)
+      File "/curc/sw/anaconda3/2023.09/lib/python3.11/site-packages/conda/core/initialize.py", line 853, in run_plan_elevated
+        result = subprocess_call(
+                 ^^^^^^^^^^^^^^^^
+      File "/curc/sw/anaconda3/2023.09/lib/python3.11/site-packages/conda/gateways/subprocess.py", line 108, in subprocess_call
+        stdout, stderr = process.communicate(input=stdin)
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/curc/sw/anaconda3/2023.09/lib/python3.11/subprocess.py", line 1209, in communicate
+        stdout, stderr = self._communicate(input, endtime, timeout)
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/curc/sw/anaconda3/2023.09/lib/python3.11/subprocess.py", line 2088, in _communicate
+        input_view = memoryview(self._input)
+                     ^^^^^^^^^^^^^^^^^^^^^^^
+    TypeError: memoryview: a bytes-like object is required, not 'str'
+
+`$ /curc/sw/anaconda3/2023.09/bin/conda init bash`
+
+  environment variables:
+                 CIO_TEST=<not set>
+        CONDA_DEFAULT_ENV=base
+                CONDA_EXE=/curc/sw/anaconda3/2023.09/bin/conda
+             CONDA_PREFIX=/curc/sw/anaconda3/2023.09
+           CONDA_PREFIX_1=/curc/sw/mambaforge-pypy3/23.1.0-1
+    CONDA_PROMPT_MODIFIER=(base)
+         CONDA_PYTHON_EXE=/curc/sw/anaconda3/2023.09/bin/python
+               CONDA_ROOT=/curc/sw/anaconda3/2023.09
+              CONDA_SHLVL=2
+           CURL_CA_BUNDLE=<not set>
+               LD_PRELOAD=<not set>
+        LMOD_PACKAGE_PATH=/curc/sw/alpine-modules/.site
+                  MANPATH=/curc/sw/lmod/8.2.7/share/man:
+               MODULEPATH=/etc/modulefiles:/usr/share/modulefiles:/curc/sw/alpine-
+                          modules/compilers:/curc/sw/alpine-modules/idep:/curc/sw/alpine-
+                          modules/udep/bio:/curc/sw/lmod/8.2.7/modulefiles/Core:/curc/sw/alpine-
+                          modules/cu_licensed
+                     PATH=/curc/sw/anaconda3/2023.09/bin:/curc/sw/anaconda3/2023.09/bin:/curc/sw
+                          /mambaforge-pypy3/23.1.0-
+                          1/condabin:/curc/sw/anaconda3/2023.09/condabin:/curc/sw/slurmtools/0.0
+                          .1/bin:/opt/TurboVNC/bin:/usr/lpp/mmfs/bin:/usr/local/bin:/usr/bin:/us
+                          r/local/sbin:/usr/sbin
+       REQUESTS_CA_BUNDLE=<not set>
+            SSL_CERT_FILE=<not set>
+__LMOD_REF_COUNT_MODULEPATH=/etc/modulefiles:1;/usr/share/modulefiles:1;/curc/sw/alpine-
+                          modules/compilers:1;/curc/sw/alpine-modules/idep:1;/curc/sw/alpine-mod
+                          ules/udep/bio:1;/curc/sw/lmod/8.2.7/modulefiles/Core:1;/curc/sw/alpine
+                          -modules/cu_licensed:1
+    __LMOD_REF_COUNT_PATH=/curc/sw/anaconda3/2023.09/bin:2;/curc/sw/mambaforge-
+                          pypy3/23.1.0-1/bin:1;/curc/sw/mambaforge-pypy3/23.1.0-
+                          1/condabin:1;/curc/sw/anaconda3/2023.09/condabin:1;/curc/sw/slurmtools
+                          /0.0.1/bin:1;/opt/TurboVNC/bin:1;/usr/lpp/mmfs/bin:1;/usr/local/bin:1;
+                          /usr/bin:1;/usr/local/sbin:1;/usr/sbin:1
+
+     active environment : base
+    active env location : /curc/sw/anaconda3/2023.09
+            shell level : 2
+       user config file : /home/mili0001_amc/.condarc
+ populated config files : 
+          conda version : 23.7.4
+    conda-build version : 3.26.1
+         python version : 3.11.5.final.0
+       virtual packages : __archspec=1=x86_64
+                          __glibc=2.28=0
+                          __linux=4.18.0=0
+                          __unix=0=0
+       base environment : /curc/sw/anaconda3/2023.09  (read only)
+      conda av data dir : /curc/sw/anaconda3/2023.09/etc/conda
+  conda av metadata url : None
+           channel URLs : https://repo.anaconda.com/pkgs/main/linux-64
+                          https://repo.anaconda.com/pkgs/main/noarch
+                          https://repo.anaconda.com/pkgs/r/linux-64
+                          https://repo.anaconda.com/pkgs/r/noarch
+          package cache : /curc/sw/anaconda3/2023.09/pkgs
+                          /home/mili0001_amc/.conda/pkgs
+       envs directories : /home/mili0001_amc/.conda/envs
+                          /curc/sw/anaconda3/2023.09/envs
+               platform : linux-64
+             user-agent : conda/23.7.4 requests/2.31.0 CPython/3.11.5 Linux/4.18.0-305.34.2.el8_4.x86_64 rhel/8.4 glibc/2.28
+                UID:GID : 2006837:2006837
+             netrc file : None
+           offline mode : False
+
+
+An unexpected error has occurred. Conda has prepared the above report.
+If you suspect this error is being caused by a malfunctioning plugin,
+consider using the --no-plugins option to turn off plugins.
+
+Example: conda --no-plugins install <package>
+
+Alternatively, you can set the CONDA_NO_PLUGINS environment variable on
+the command line to run the command without plugins enabled.
+
+Example: CONDA_NO_PLUGINS=true conda install <package>
+
+
+EnvironmentNameNotFound: Could not find conda environment: slurm_stats_env
+You can list all discoverable environments with `conda info --envs`.
+
+
