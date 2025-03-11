@@ -14,9 +14,10 @@ module load anaconda
 
 conda init bash
 
-days=600
+days=$1
 USER="$USER"
 n=50
+boulder="true"
 
 # load env
 conda activate slurm_stats_env
@@ -27,17 +28,26 @@ jupyter nbconvert --to=script --FilesWriter.build_directory=scripts/ notebooks/*
 slurm_stats_files_dir="slurm_stats_files"
 # make the dir if it does not exist
 mkdir -p "$slurm_stats_files_dir"
-cd slurm_stats_files
+cd slurm_stats_files || exit
 
 accounts_file="$(date +%Y-%m-%d_%H:%M:%S)_accounts_date.csv"
+boulder_accounts_file="$(date +%Y-%m-%d_%H:%M:%S)_boulder_accounts_date.csv"
 jobs_file="$(date +%Y-%m-%d_%H:%M:%S)_jobs_date.csv"
 
 # Get the accounts and jobs data
 suacct amc-general "$days" > "$accounts_file"
+if [ "$boulder" = "true" ]; then
+    suacct ucb "$days" > "$boulder_accounts_file"
+fi
 jobstats "$USER" "$days" > "$jobs_file"
 
-cd ../scripts
+
+cd ../scripts || exit
 
 # Run the python script
-python slurm_stats.py --acct "$accounts_file" --jobs_stats "$jobs_file" --days "$days" --user "$USER" --top_n "$n"
+if [ "$boulder" = "true" ]; then
+    python slurm_stats.py --acct "$accounts_file" --jobs_stats "$jobs_file" --days "$days" --user "$USER" --top_n "$n" --boulder_acct "$boulder_accounts_file"
+else
 
+python slurm_stats.py --acct "$accounts_file" --jobs_stats "$jobs_file" --days "$days" --user "$USER" --top_n "$n"
+fi
