@@ -1,3 +1,4 @@
 
 slurm_stats_check/slurm_stats_files/* # for privacy
 slurm_stats_check/slurm_stats_files
+slurm_stats_check/results/*
