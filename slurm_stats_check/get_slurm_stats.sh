@@ -48,6 +48,5 @@ cd ../scripts || exit
 if [ "$boulder" = "true" ]; then
     python slurm_stats.py --acct "$accounts_file" --jobs_stats "$jobs_file" --days "$days" --user "$USER" --top_n "$n" --boulder_acct "$boulder_accounts_file"
 else
-
-python slurm_stats.py --acct "$accounts_file" --jobs_stats "$jobs_file" --days "$days" --user "$USER" --top_n "$n"
+    python slurm_stats.py --acct "$accounts_file" --jobs_stats "$jobs_file" --days "$days" --user "$USER" --top_n "$n"
 fi
