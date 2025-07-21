@@ -9,7 +9,6 @@
 # Load the slurm module
 module purge
 module load slurmtools
-module load mambaforge
 module load anaconda
 
 conda init bash
