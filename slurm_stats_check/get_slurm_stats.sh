@@ -1,7 +1,7 @@
 #!/bin/bash
 #SBATCH --nodes=1
-#SBATCH --ntasks=1
-#SBATCH --time=06:00:00
+#SBATCH --ntasks=5
+#SBATCH --time=08:00:00
 #SBATCH --partition=amilan
 #SBATCH --qos=normal
 #SBATCH --output=alpine_std_out_std_err-%j.out

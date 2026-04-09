@@ -1,0 +1,20 @@
+
+Lmod is automatically replacing "miniforge/24.11.3-0" with "anaconda/2023.09".
+
+/curc/sw/anaconda3/2023.09/etc/profile.d/conda.sh: line 9: : command not found
+no change     /curc/sw/anaconda3/2023.09/condabin/conda
+no change     /curc/sw/anaconda3/2023.09/bin/conda
+no change     /curc/sw/anaconda3/2023.09/bin/conda-env
+no change     /curc/sw/anaconda3/2023.09/bin/activate
+no change     /curc/sw/anaconda3/2023.09/bin/deactivate
+no change     /curc/sw/anaconda3/2023.09/etc/profile.d/conda.sh
+no change     /curc/sw/anaconda3/2023.09/etc/fish/conf.d/conda.fish
+no change     /curc/sw/anaconda3/2023.09/shell/condabin/Conda.psm1
+no change     /curc/sw/anaconda3/2023.09/shell/condabin/conda-hook.ps1
+no change     /curc/sw/anaconda3/2023.09/lib/python3.11/site-packages/xontrib/conda.xsh
+no change     /curc/sw/anaconda3/2023.09/etc/profile.d/conda.csh
+no change     /home/mlippincott@xsede.org/.bashrc
+No action taken.
+[NbConvertApp] Converting notebook notebooks/slurm_stats.ipynb to script
+[NbConvertApp] Writing 6465 bytes to scripts/slurm_stats.py
+slurmstepd: error: *** JOB 14134974 ON c3cpu-c15-u1-2 CANCELLED AT 2025-05-21T12:10:55 ***

@@ -1,0 +1,33 @@
+Lmod has detected the following error: The following module(s) are unknown:
+"mambaforge"
+
+Please check the spelling or version number. Also try "module spider ..."
+It is also possible your cache file is out-of-date; it may help to try:
+  $ module --ignore-cache load "mambaforge"
+
+Also make sure that all modulefiles written in TCL start with the string
+#%Module
+
+
+
+no change     /curc/sw/anaconda3/2023.09/condabin/conda
+no change     /curc/sw/anaconda3/2023.09/bin/conda
+no change     /curc/sw/anaconda3/2023.09/bin/conda-env
+no change     /curc/sw/anaconda3/2023.09/bin/activate
+no change     /curc/sw/anaconda3/2023.09/bin/deactivate
+no change     /curc/sw/anaconda3/2023.09/etc/profile.d/conda.sh
+no change     /curc/sw/anaconda3/2023.09/etc/fish/conf.d/conda.fish
+no change     /curc/sw/anaconda3/2023.09/shell/condabin/Conda.psm1
+no change     /curc/sw/anaconda3/2023.09/shell/condabin/conda-hook.ps1
+no change     /curc/sw/anaconda3/2023.09/lib/python3.11/site-packages/xontrib/conda.xsh
+no change     /curc/sw/anaconda3/2023.09/etc/profile.d/conda.csh
+modified      /home/mlippincott@xsede.org/.bashrc
+
+==> For changes to take effect, close and re-open your current shell. <==
+
+[NbConvertApp] Converting notebook notebooks/slurm_stats.ipynb to script
+[NbConvertApp] Writing 6465 bytes to scripts/slurm_stats.py
+usage: slurm_stats.py [-h] --acct ACCT --jobs_stats JOBS_STATS --days DAYS
+                      --user USER [--top_n TOP_N]
+                      [--boulder_acct BOULDER_ACCT]
+slurm_stats.py: error: argument --days: invalid int value: ''

@@ -1,0 +1,1036 @@
+SU used by account (allocation) ucb in the last 90 days:
+Cluster|Account|Login|Proper Name|TRES Name|Used
+alpine|ucb|||billing|38769253
+alpine| ucb-general|||billing|21318904
+alpine|  ucb-general|aane9918|Aadesh Neel|billing|21806
+alpine|  ucb-general|aaso5268|Aashi Solanki|billing|11
+alpine|  ucb-general|abal2132|Abdulaziz Alherz|billing|6
+alpine|  ucb-general|abal9950|Abdulaziz Algahtani|billing|132
+alpine|  ucb-general|abeb4417|Abteen Ebrahimi|billing|324
+alpine|  ucb-general|abha4861|Abram Handler|billing|2024
+alpine|  ucb-general|adas1536|Adiba Ashrafee|billing|1
+alpine|  ucb-general|adde1214|Advait Deshmukh|billing|10778
+alpine|  ucb-general|adha3409|Adam Harris|billing|268
+alpine|  ucb-general|adra3928|Adam Raducha|billing|239
+alpine|  ucb-general|adsi8361|Aditya Singh|billing|19
+alpine|  ucb-general|adva8200|Adrian van Kan|billing|8
+alpine|  ucb-general|adwi9965|Adam Wiemerslage|billing|1
+alpine|  ucb-general|adwu8800|Adam Wuth|billing|116
+alpine|  ucb-general|ahbi8358|Ahmed Biby|billing|46626
+alpine|  ucb-general|aibe7891|Aislyn Bell|billing|28090
+alpine|  ucb-general|aibr7778|Ainsley Fletcher|billing|2803
+alpine|  ucb-general|aide8765|Aiden Devine|billing|16
+alpine|  ucb-general|aifo5973|Aidan Fong|billing|24
+alpine|  ucb-general|aija9929|Aidan Janney|billing|132
+alpine|  ucb-general|aima3254|Aidan Magruder|billing|6776
+alpine|  ucb-general|aing7943|Aimee Nguyen|billing|12
+alpine|  ucb-general|aiwe2320|Aidan Wegner|billing|1361
+alpine|  ucb-general|akbh9606|Aksaj Bharatwaj|billing|8895
+alpine|  ucb-general|alal7557|Ali Almelhem|billing|260
+alpine|  ucb-general|alar6830|Alex Arnold|billing|1682
+alpine|  ucb-general|alba3697|Alex Ball|billing|1342
+alpine|  ucb-general|alba4576|Alex Barry|billing|13
+alpine|  ucb-general|alch6097|Alvin Chen|billing|7
+alpine|  ucb-general|alhe2052|Alfredo Hernandez Roman|billing|151
+alpine|  ucb-general|alja6731|Alexandra Jahn|billing|33
+alpine|  ucb-general|alju9089|Alexander Jun|billing|169
+alpine|  ucb-general|alle1680|Alison Leonard|billing|1
+alpine|  ucb-general|alle5715|Alex Leto|billing|208
+alpine|  ucb-general|alli4718|Alvin Li|billing|1
+alpine|  ucb-general|alne8773|Alex Newhouse|billing|1
+alpine|  ucb-general|alst0620|Alex Staat|billing|0
+alpine|  ucb-general|alun7358|Alexandra (Alex) Unangst|billing|535
+alpine|  ucb-general|alye3822|Alec Yenawine|billing|24
+alpine|  ucb-general|ambo2830|Amanda Bowden|billing|48
+alpine|  ucb-general|amco9438|Ambra Coccaro|billing|45
+alpine|  ucb-general|amdi7038|Mia DiPetrillo|billing|60
+alpine|  ucb-general|amfa5003|Amin Falah|billing|600
+alpine|  ucb-general|amhe4269|Amy Hegarty|billing|5529
+alpine|  ucb-general|amro8203|Amanda Rowe|billing|1
+alpine|  ucb-general|amta3208|Amin Taziny|billing|4
+alpine|  ucb-general|anbr9114|Anna Broerman|billing|29602
+alpine|  ucb-general|anch2447|Andrew Chamberlain|billing|0
+alpine|  ucb-general|anco9234|Ana Costa|billing|408
+alpine|  ucb-general|ando6914|Anthony Dominic|billing|1861
+alpine|  ucb-general|anfr8476|Anika Friedman|billing|180752
+alpine|  ucb-general|anga5835|Ananya Ganesh|billing|592
+alpine|  ucb-general|angr2964|Andrew Grotzinger|billing|0
+alpine|  ucb-general|anhe5317|Andrew Heck|billing|1
+alpine|  ucb-general|anhi5779|Andrew Hickman|billing|154
+alpine|  ucb-general|anle9070|Anthony Lee|billing|0
+alpine|  ucb-general|anlu1275|Andrea Lugo|billing|204
+alpine|  ucb-general|anne1988|Andrea Negulescu|billing|130
+alpine|  ucb-general|anra7539|Ankush Raut|billing|69450
+alpine|  ucb-general|anra8571|Anna Rahn|billing|0
+alpine|  ucb-general|ansa1773|A.J. Sauter|billing|188207
+alpine|  ucb-general|ansh1533|Anni Shi|billing|0
+alpine|  ucb-general|ansu3864|Anoop Subramanya|billing|1
+alpine|  ucb-general|ansu6268|Aneesh Subramanian|billing|156
+alpine|  ucb-general|anth4580|Annette Thompson|billing|183787
+alpine|  ucb-general|anwi9001|Andrew Winters|billing|60
+alpine|  ucb-general|anzu2965|Anna Zuckerman|billing|5716
+alpine|  ucb-general|aohe7145|Aoife Henry|billing|133
+alpine|  ucb-general|aoli1656|Aolin Li|billing|1180
+alpine|  ucb-general|arbe6027|Ariel Benze|billing|108
+alpine|  ucb-general|ardi7164|Arly Diaz de Leon|billing|26
+alpine|  ucb-general|arfa3196|Arnib Farooqui|billing|0
+alpine|  ucb-general|arki6954|Armin Kianfar|billing|67
+alpine|  ucb-general|arpi3148|Artem Pimachev|billing|0
+alpine|  ucb-general|arra4944|Arjun Ashok Rao|billing|39570
+alpine|  ucb-general|arsa7966|Arindam Sau|billing|3
+alpine|  ucb-general|askn7936|Ashley Knight|billing|106
+alpine|  ucb-general|aspe7977|Ash Pera|billing|57
+alpine|  ucb-general|asum8093|Ashwin Umadi|billing|1624
+alpine|  ucb-general|atpe3505|Atharva Peshkar|billing|22
+alpine|  ucb-general|auha0855|Austin Hayes|billing|1
+alpine|  ucb-general|ayla8980|Aylecia Lattimer|billing|1
+alpine|  ucb-general|bach9710|Bartholomew Chen|billing|0
+alpine|  ucb-general|bamo6610|Barbara Morales|billing|0
+alpine|  ucb-general|banh3764|Bang Nhan|billing|1
+alpine|  ucb-general|basi7344|Baljit Singh|billing|296185
+alpine|  ucb-general|basu9216|Bagyasree Sudharsan|billing|0
+alpine|  ucb-general|bazi9181|Bailey Zinger|billing|654
+alpine|  ucb-general|bebr1814|Ben Braun|billing|186
+alpine|  ucb-general|beca4397|Benjamin Campforts|billing|2679
+alpine|  ucb-general|bech6414|Bertram Cham|billing|2
+alpine|  ucb-general|becr8256|Benjamin Cross|billing|1
+alpine|  ucb-general|befa4441|Betsy Farris|billing|6
+alpine|  ucb-general|begr8419|Bethany Graylin|billing|15746
+alpine|  ucb-general|beko8392|Benjamin Kohav|billing|53
+alpine|  ucb-general|belo7400|Benjamin Lombardi|billing|3756
+alpine|  ucb-general|beop5934|Benjamin Oppenheimer|billing|12
+alpine|  ucb-general|beyo2625|Benjamin Young|billing|47
+alpine|  ucb-general|bhpu3467|Bhuvanendra Putchala|billing|19
+alpine|  ucb-general|blde8334|Blake Dehaas|billing|60
+alpine|  ucb-general|boab2355|Boston Abrams|billing|1
+alpine|  ucb-general|bogr3419|Boman Groff|billing|2929
+alpine|  ucb-general|brad6458|Brooklyn Adams|billing|79
+alpine|  ucb-general|brco3678|Brianna Corsa|billing|354
+alpine|  ucb-general|bres9281|Branden Esses|billing|2
+alpine|  ucb-general|brha0386|Brandon Hayes|billing|60
+alpine|  ucb-general|brmo2880|Brandon Molina|billing|97
+alpine|  ucb-general|brni6463|Brian Nies|billing|3241
+alpine|  ucb-general|brpa1473|Brynn Paulsen|billing|84
+alpine|  ucb-general|brre2566|Brandon Reyes|billing|16845
+alpine|  ucb-general|brsc9354|Brooke Scholtens|billing|96
+alpine|  ucb-general|brsi3310|Brady Sivey|billing|14
+alpine|  ucb-general|brun1463|Brianna Undzis|billing|6292
+alpine|  ucb-general|buchanae|Buchanan|billing|0
+alpine|  ucb-general|cabe4819|Caleb Bettcher|billing|0
+alpine|  ucb-general|caca4176|Caidan Caswell|billing|15
+alpine|  ucb-general|caje3244|Catalina Jerez Toledo|billing|9
+alpine|  ucb-general|cale4225|Catherine Lei|billing|117942
+alpine|  ucb-general|cale8294|Catherine Leszcz|billing|603157
+alpine|  ucb-general|caog1631|Caleb Ogle|billing|12
+alpine|  ucb-general|caph6236|Casey Phillips|billing|12
+alpine|  ucb-general|caqu8258|Catherine Quandt|billing|1
+alpine|  ucb-general|cego6160|Ceu Gomez-faulk|billing|12
+alpine|  ucb-general|char4816|Christopher Arehart|billing|853
+alpine|  ucb-general|chbr4389|Christopher Brown|billing|4
+alpine|  ucb-general|chci7016|Chloe Circenis|billing|3
+alpine|  ucb-general|chco8949|Chloe Covey|billing|132
+alpine|  ucb-general|chde5972|Christian De Simone|billing|12
+alpine|  ucb-general|cheg4209|Chloe Eggleston|billing|438
+alpine|  ucb-general|chge4493|Christina Geller|billing|1101
+alpine|  ucb-general|chhs7313|Chia-Hua Hsu|billing|1661
+alpine|  ucb-general|chle3227|Chay Lee|billing|5406
+alpine|  ucb-general|chol8795|Christine Olson|billing|228
+alpine|  ucb-general|chol9271|Charles Oliver|billing|833
+alpine|  ucb-general|chra9280|Mia Ray|billing|14
+alpine|  ucb-general|chte9199|Chayut Teeraratkul|billing|26
+alpine|  ucb-general|chts4244|Chia-nien Tsai|billing|2022
+alpine|  ucb-general|chwa2399|Christopher Walker|billing|55
+alpine|  ucb-general|clbd1748|Clifton Bueno De mesquita|billing|39507
+alpine|  ucb-general|clfl3158|Claire Fleckenstein|billing|30
+alpine|  ucb-general|clkl8073|Clay Klein|billing|0
+alpine|  ucb-general|clph3665|Clil Phillips|billing|0
+alpine|  ucb-general|clre3437|Clairy Reiher|billing|3764
+alpine|  ucb-general|clst9741|Claudia Steiner|billing|52
+alpine|  ucb-general|coal5314|Corbin Allison|billing|1
+alpine|  ucb-general|coka4389|Collin Kadlecek|billing|332
+alpine|  ucb-general|colo5210|Cole Lombardi|billing|368
+alpine|  ucb-general|comu7064|Colby Muchlinski|billing|108
+alpine|  ucb-general|copa4551|Cory Paik|billing|0
+alpine|  ucb-general|cosi1728|Cooper Simpson|billing|0
+alpine|  ucb-general|cote3804|Cooper Tezak|billing|3
+alpine|  ucb-general|creelman|Mitchell Creelman|billing|2519
+alpine|  ucb-general|daaj5019|Daniel Ajedamola Ajeleye|billing|432
+alpine|  ucb-general|daar2158|David Armendariz|billing|44
+alpine|  ucb-general|dabr3961|David Brennan|billing|60
+alpine|  ucb-general|daca9862|Damian Cabral|billing|0
+alpine|  ucb-general|daco7568|Daniel Colon|billing|0
+alpine|  ucb-general|dafu9850|Daisy Fuchs|billing|48
+alpine|  ucb-general|daki6073|Joey Kilpatrick|billing|105
+alpine|  ucb-general|daqu2831|Daphne Quint|billing|2
+alpine|  ucb-general|dari6475|Daniel Richardson|billing|20
+alpine|  ucb-general|daro8074|David Rosencrans|billing|69
+alpine|  ucb-general|dasa6580|David Saeb|billing|16
+alpine|  ucb-general|dasi8263|Daksha Singhal|billing|1
+alpine|  ucb-general|ddsanche|Diego Sanchez Lana|billing|133220
+alpine|  ucb-general|debi9000|Denzil Bilson|billing|152
+alpine|  ucb-general|dedu0223|Devon Dunmire|billing|126
+alpine|  ucb-general|demu4576|Debanjan Mukherjee|billing|7
+alpine|  ucb-general|dhba5060|Dharini Baskaran|billing|0
+alpine|  ucb-general|dhna9819|Dhiman Nandi|billing|48
+alpine|  ucb-general|diwu8132|Di Wu|billing|147
+alpine|  ucb-general|dogo5375|Dorit Goldstein|billing|72
+alpine|  ucb-general|doja6309|Donggyu Jang|billing|4
+alpine|  ucb-general|dora1300|Dominique Ramirez|billing|945
+alpine|  ucb-general|dosh8441|Dora Shlosberg|billing|45
+alpine|  ucb-general|drbl5528|Drew Blauth|billing|72
+alpine|  ucb-general|drda3368|Dron Das Purkayastha|billing|6
+alpine|  ucb-general|dula6235|Duncan Laird|billing|14
+alpine|  ucb-general|dygo2386|Dylan Gottlieb|billing|0
+alpine|  ucb-general|dyha6419|Dylan Hamilton|billing|0
+alpine|  ucb-general|dysa7814|Dylan Sain|billing|0
+alpine|  ucb-general|eadu9746|Eamonn Duffy|billing|2
+alpine|  ucb-general|edki2977|Eddie Kiernan|billing|110
+alpine|  ucb-general|edre1447|Neddy Reagan|billing|78
+alpine|  ucb-general|eeto3049|Eesha Tolety|billing|19
+alpine|  ucb-general|elal3987|Elizabeth Allan-cole|billing|14
+alpine|  ucb-general|elca1097|Elena Carlson|billing|168
+alpine|  ucb-general|elde7957|Ellen DeGennaro|billing|0
+alpine|  ucb-general|elhe2720|Ella Henry|billing|358
+alpine|  ucb-general|elka1772|Eli Katz|billing|2012
+alpine|  ucb-general|emal2471|Emma Aldrich|billing|710
+alpine|  ucb-general|emki6943|Emily Kibby|billing|48
+alpine|  ucb-general|emkr1571|Emily Kraus|billing|92
+alpine|  ucb-general|emli6921|Emma Lietzke|billing|3195664
+alpine|  ucb-general|emri5473|Emma Rieves|billing|415
+alpine|  ucb-general|emsa1620|Emmanuel Sapin|billing|1461003
+alpine|  ucb-general|emsc7928|Emery Schattinger|billing|83
+alpine|  ucb-general|emty9224|Emma Tyrrell|billing|3916
+alpine|  ucb-general|emwe5461|Emily Wein|billing|100
+alpine|  ucb-general|enri8153|Enora Rice|billing|225
+alpine|  ucb-general|erfu6577|Erik Funk|billing|13159
+alpine|  ucb-general|erha6448|Erik Hartwick|billing|1
+alpine|  ucb-general|erje3158|Erik Jensen|billing|2
+alpine|  ucb-general|erme3555|Erika Mehrhoff|billing|1429
+alpine|  ucb-general|erob6228|Erin Obermayer|billing|4655
+alpine|  ucb-general|erri8425|Erin Richardson|billing|2
+alpine|  ucb-general|erwh9458|Erick White|billing|2
+alpine|  ucb-general|etdu2967|Ethan Durham|billing|816
+alpine|  ucb-general|etfi1591|Ethan Fink|billing|334
+alpine|  ucb-general|etmi8410|Ethan Miller|billing|0
+alpine|  ucb-general|evga2395|Evan Gassiot|billing|5
+alpine|  ucb-general|evle2740|Evan Lesnefsky|billing|2130
+alpine|  ucb-general|evra9438|Evelyn Radabaugh|billing|0
+alpine|  ucb-general|evwo8339|Evan Wood|billing|9
+alpine|  ucb-general|faah7178|Farhan Ahmed|billing|10
+alpine|  ucb-general|fana6609|Fahsai Nakarin|billing|217
+alpine|  ucb-general|fapo3151|Fatemeh Pourahmadian|billing|49
+alpine|  ucb-general|feca8366|Federico Carminati|billing|28351
+alpine|  ucb-general|fezh6844|Fengyu Zhang|billing|13
+alpine|  ucb-general|gaha4495|Gavin Hanville|billing|12
+alpine|  ucb-general|gakr4055|Garyfallia Kromyda|billing|528
+alpine|  ucb-general|gazi2063|Gabriel Zinser|billing|0
+alpine|  ucb-general|geah6595|Gwen Ahn|billing|1
+alpine|  ucb-general|geba2844|George Baker|billing|0
+alpine|  ucb-general|geba9152|Georgia Barone|billing|0
+alpine|  ucb-general|giil6243|Ginikanda Ilangakoon|billing|3
+alpine|  ucb-general|gillmana|Adrianna Gillman|billing|125591
+alpine|  ucb-general|gisi4698|Gina Sierra Reyes|billing|2
+alpine|  ucb-general|glimp|David Glimp|billing|45
+alpine|  ucb-general|grbo2686|Grace Bowman|billing|16
+alpine|  ucb-general|groomsi|Ian Grooms|billing|12
+alpine|  ucb-general|grsi3859|Grayson Singer|billing|72
+alpine|  ucb-general|gube4476|Gus Becker|billing|3
+alpine|  ucb-general|guli2564|Guiye Li|billing|65253
+alpine|  ucb-general|gulo0990|Guillaume Lostec|billing|0
+alpine|  ucb-general|hafl3265|Haylee Fleming|billing|83
+alpine|  ucb-general|haob8470|Harrison O'Brien|billing|153
+alpine|  ucb-general|hapa3524|Hannah Padgette|billing|63
+alpine|  ucb-general|hapa5755|Haeseong Park|billing|2230
+alpine|  ucb-general|hear0217|Henry Arndt|billing|12
+alpine|  ucb-general|hebr7967|Helen Brackney|billing|11677
+alpine|  ucb-general|heli8222|Henry Li|billing|127
+alpine|  ucb-general|heumannj|John Heumann|billing|0
+alpine|  ucb-general|hiku3278|Himabindu Kumdam|billing|3
+alpine|  ucb-general|hoch2842|Ho Sang Chan|billing|0
+alpine|  ucb-general|hong5183|Hoang Nguyen|billing|41372
+alpine|  ucb-general|hoya8459|Houssam Yassin|billing|615
+alpine|  ucb-general|huli5135|Hui Li|billing|76708
+alpine|  ucb-general|hyki6282|Hyo Jeong Kim|billing|97
+alpine|  ucb-general|imah4334|Imtiaj Ahmed|billing|11
+alpine|  ucb-general|isar4902|Isaac Armstrong|billing|6
+alpine|  ucb-general|isce7851|Gustav Cedergrund|billing|11
+alpine|  ucb-general|isfo7599|Isabelle Foote|billing|4253
+alpine|  ucb-general|iskn5848|Isaiah Knox|billing|2
+alpine|  ucb-general|islo9452|Bella Longo|billing|32
+alpine|  ucb-general|isza5860|Isabella Zane|billing|17821
+alpine|  ucb-general|jaal6379|Jacob Allen|billing|12
+alpine|  ucb-general|jabr7235|Jane Bright|billing|0
+alpine|  ucb-general|jaca5796|Jair Castillo|billing|24
+alpine|  ucb-general|jacr0382|James Crowley|billing|2811
+alpine|  ucb-general|jade6100|Jacob Derosa|billing|3564
+alpine|  ucb-general|jaec7743|Jacob Ecks|billing|4
+alpine|  ucb-general|jafa3629|Jack Farrell|billing|269
+alpine|  ucb-general|jafi5199|Jaden Fitzpatrick|billing|350
+alpine|  ucb-general|jaga6617|Jasmine Garland|billing|4512
+alpine|  ucb-general|jajo9872|Jacob Jones|billing|3
+alpine|  ucb-general|jame5419|Jake Mendelssohn|billing|12
+alpine|  ucb-general|jano8042|Jackson Novak|billing|372
+alpine|  ucb-general|janu6853|Jacob Nuttall|billing|0
+alpine|  ucb-general|jari8941|Jason Rivas|billing|2
+alpine|  ucb-general|jash5736|Jas Hemant Shahanand|billing|0
+alpine|  ucb-general|jasn7628|Jaden Snell|billing|111
+alpine|  ucb-general|jaso7378|Jaehee Song|billing|227
+alpine|  ucb-general|jast4368|Jared Steffen|billing|48
+alpine|  ucb-general|jasu4623|Jackson Summers|billing|180
+alpine|  ucb-general|jate9143|Jaynie Tercovich|billing|1
+alpine|  ucb-general|jeba5837|Jeremy Barroll|billing|28
+alpine|  ucb-general|jebu2446|Jenalie Burroughs|billing|12
+alpine|  ucb-general|jeca4282|Jessica Calme|billing|0
+alpine|  ucb-general|jeco4346|Jenna Cooper|billing|84
+alpine|  ucb-general|jefr6734|Jennifer Frame|billing|110
+alpine|  ucb-general|jeho1482|Jessica Holmes|billing|398
+alpine|  ucb-general|jeho9313|Jenny Horing|billing|787
+alpine|  ucb-general|jeka1927|Jennifer Kay|billing|16
+alpine|  ucb-general|jeki7540|Jeong Eun Kim|billing|326
+alpine|  ucb-general|jela9087|Jeremy Lawrence|billing|11
+alpine|  ucb-general|jelo7725|Jessica Loyet|billing|498
+alpine|  ucb-general|jem|Joseph Maclennan|billing|4
+alpine|  ucb-general|jepo7247|Jesus Portilla|billing|6
+alpine|  ucb-general|jera1607|Jens Rataczak|billing|1
+alpine|  ucb-general|jesi6003|Jeremy Simoes|billing|2
+alpine|  ucb-general|jest7554|Jenna Stanislaw|billing|4087
+alpine|  ucb-general|jeyu9543|Jennifer Yu|billing|36
+alpine|  ucb-general|jiad4427|Jill Addington|billing|11853
+alpine|  ucb-general|jiwu7451|Jin-Sheng Wu|billing|85
+alpine|  ucb-general|jizh5489|Jiannan Zhou|billing|101531
+alpine|  ucb-general|jlundqui|Lundquist|billing|234
+alpine|  ucb-general|joab1619|Joseph Abroquah|billing|43901
+alpine|  ucb-general|joba4184|Brent Barger|billing|1
+alpine|  ucb-general|joca2753|Joshua Camp|billing|17
+alpine|  ucb-general|joch1347|Jocelyn Chi|billing|23
+alpine|  ucb-general|joco6825|Joshua Coupe|billing|3
+alpine|  ucb-general|jodo2960|Johnny Dorigo Jones|billing|7
+alpine|  ucb-general|jodo7785|John Doherty|billing|1
+alpine|  ucb-general|jofa3453|Jonathan Faris|billing|89
+alpine|  ucb-general|joge2293|Joshua Geeting|billing|36
+alpine|  ucb-general|jogo3428|Josh Gooch|billing|12
+alpine|  ucb-general|jogr4852|Josh Gregory|billing|1689
+alpine|  ucb-general|johe7316|Jordan Herbert|billing|40871
+alpine|  ucb-general|joho3114|Jonas Holl|billing|70291
+alpine|  ucb-general|joja5831|Jonatan Jacquemin|billing|0
+alpine|  ucb-general|jojo8550|Joel Johnson|billing|305
+alpine|  ucb-general|jola3134|Joseph Laforet|billing|4592
+alpine|  ucb-general|joma0457|Jo Martin|billing|22
+alpine|  ucb-general|joma9233|Joseph Malingowski|billing|10
+alpine|  ucb-general|jomc2006|Johanna Mccombs|billing|12
+alpine|  ucb-general|jomo4191|Jonathan Morris|billing|2
+alpine|  ucb-general|jomy5901|Josh Myers-dean|billing|66
+alpine|  ucb-general|jore1803|John Reiland|billing|524
+alpine|  ucb-general|josc5417|Jonathan Schmidt|billing|67
+alpine|  ucb-general|juce5499|Jay Cessna|billing|51283
+alpine|  ucb-general|jugi9978|Justus Gibson|billing|0
+alpine|  ucb-general|juho8819|Julianne Hoeflich|billing|27
+alpine|  ucb-general|juja4571|Justin Jamrowski|billing|26
+alpine|  ucb-general|juke6537|Julia Keefe|billing|860
+alpine|  ucb-general|juni1816|Justin Nicoski|billing|1200531
+alpine|  ucb-general|juro4948|Julia Romero|billing|6
+alpine|  ucb-general|juva3822|Juan Vasquez|billing|0
+alpine|  ucb-general|jweiss|Jeffrey Weiss|billing|12
+alpine|  ucb-general|kaad8904|Kalvyn Adams|billing|96
+alpine|  ucb-general|kaba6117|Katherine Bardsley|billing|6
+alpine|  ucb-general|kabi2891|Kaitlyn Bishay|billing|0
+alpine|  ucb-general|kabo1917|Kathryn Boden|billing|12
+alpine|  ucb-general|kach6488|Kausik Chatterjee|billing|22
+alpine|  ucb-general|kagr0580|Kacper Gradon|billing|0
+alpine|  ucb-general|kaha0714|Karl Hanzel|billing|3
+alpine|  ucb-general|kame9920|Kalp Mukund Mepani|billing|1
+alpine|  ucb-general|kaor3126|Katelyn Orr|billing|72
+alpine|  ucb-general|kari0458|Karl Rittger|billing|3
+alpine|  ucb-general|kasa6776|Karthik Sairam|billing|11
+alpine|  ucb-general|kasp8735|Kayla Sprenger|billing|1
+alpine|  ucb-general|kawa8581|Katherine Walsh|billing|24
+alpine|  ucb-general|kawy5915|Kaitlyn Wynes|billing|405
+alpine|  ucb-general|kazo7929|Katerina Zorina|billing|0
+alpine|  ucb-general|keba3506|Kelvin Bates|billing|2
+alpine|  ucb-general|kefo9343|Kevin Fotso|billing|1502
+alpine|  ucb-general|keha8021|Kevin Hallock|billing|0
+alpine|  ucb-general|kera5030|Kenji Ramcharansingh|billing|163
+alpine|  ucb-general|kero7035|Kevin Rozmiarek|billing|0
+alpine|  ucb-general|kewh5868|Keith White|billing|2
+alpine|  ucb-general|khba3068|Khalid Banakher|billing|90
+alpine|  ucb-general|kili1403|Kirby Linvill|billing|10
+alpine|  ucb-general|kilo7259|Kirk Long|billing|0
+alpine|  ucb-general|kism6795|Kieran Smith|billing|7873
+alpine|  ucb-general|kosm6966|Kori Smyser|billing|3
+alpine|  ucb-general|krti5528|Kristy Tiampo|billing|120
+alpine|  ucb-general|kuad8709|K. Aditi|billing|1049
+alpine|  ucb-general|kyfi6353|Kyle Fisch|billing|1311
+alpine|  ucb-general|lach2265|Lauren Christenson|billing|48
+alpine|  ucb-general|lacl8712|Laura Clark|billing|25071
+alpine|  ucb-general|lafr9499|Layla Freeborn|billing|3
+alpine|  ucb-general|laro5944|Laurel Robbins|billing|290
+alpine|  ucb-general|laro9334|Lacey Roberts|billing|282
+alpine|  ucb-general|lawh5120|Laurence Whiting|billing|56
+alpine|  ucb-general|lebe6861|Leo Beck|billing|1725
+alpine|  ucb-general|lefa1150|Lena Faber|billing|285
+alpine|  ucb-general|leni2816|Lena Niepelt|billing|518
+alpine|  ucb-general|leny3265|Lena Nyblade|billing|2
+alpine|  ucb-general|lere9990|Leo Reznik|billing|200
+alpine|  ucb-general|lesh2786|Lena Sherbakov|billing|24
+alpine|  ucb-general|lessem|Lessem|billing|62
+alpine|  ucb-general|lezu7058|Leah Zuckerman|billing|256
+alpine|  ucb-general|liaa1267|Lillian Aarnio|billing|180
+alpine|  ucb-general|lial5402|Lina Alharbi|billing|24
+alpine|  ucb-general|liba2416|Lilly Bates|billing|0
+alpine|  ucb-general|liga5493|Lily Gayou|billing|2
+alpine|  ucb-general|lige6145|Lili Geel|billing|85
+alpine|  ucb-general|liwh2139|Lindsey Whitmore|billing|161345
+alpine|  ucb-general|lizh4497|Leo Zhang|billing|2666
+alpine|  ucb-general|lizh5623|Lindy Zhang|billing|0
+alpine|  ucb-general|loba6442|Logan Barnhart|billing|1
+alpine|  ucb-general|loqu2608|Lorenzzo Quevedo Mantovani|billing|40
+alpine|  ucb-general|lowa6022|Lok Wang|billing|1
+alpine|  ucb-general|lude8513|Luis de Pablo|billing|66
+alpine|  ucb-general|luev6784|Luke Evans|billing|1
+alpine|  ucb-general|luho4863|Lucas Howard|billing|189
+alpine|  ucb-general|lula5408|Lucas Ladenburger|billing|0
+alpine|  ucb-general|lupa9404|Luis Paez Beltran|billing|1
+alpine|  ucb-general|lupe2685|Luna Peck|billing|2
+alpine|  ucb-general|lupe8402|Luke Petet|billing|84
+alpine|  ucb-general|lure7597|Lucy Recchia|billing|20914
+alpine|  ucb-general|luwa1725|Lucy Walton|billing|276
+alpine|  ucb-general|luwh7529|Lucas Wheeler|billing|10
+alpine|  ucb-general|lyko9087|Lydia Korre|billing|860
+alpine|  ucb-general|mabr6495|Maxwell Brown|billing|295
+alpine|  ucb-general|maca3369|Maxwell Carlin|billing|132
+alpine|  ucb-general|mach3467|Mary Childress|billing|23
+alpine|  ucb-general|macr9560|Magnus Crone|billing|12
+alpine|  ucb-general|mado6037|Manan Doshi|billing|0
+alpine|  ucb-general|mafi7060|Mathis Fituwi|billing|182
+alpine|  ucb-general|maha7624|Madelyn Hair|billing|223
+alpine|  ucb-general|mahe1887|Margaret Hegwood|billing|0
+alpine|  ucb-general|mahu8801|Margaret Huber|billing|2039
+alpine|  ucb-general|maki3578|Matthew Kind|billing|0
+alpine|  ucb-general|makl3799|Maddie Klumb|billing|495
+alpine|  ucb-general|makn9688|Max Knauss|billing|3937
+alpine|  ucb-general|mala3317|Matthew Laskowski|billing|1060
+alpine|  ucb-general|malo5430|MaiLe Lovett|billing|0
+alpine|  ucb-general|malu3564|Matthew Lurtz|billing|2148
+alpine|  ucb-general|mamc2026|Madeline Montes|billing|18
+alpine|  ucb-general|mamc7428|Madison Mckee|billing|0
+alpine|  ucb-general|mame5632|Maxwell Meiser|billing|0
+alpine|  ucb-general|mame8888|Marius Li Jiang Merten|billing|1
+alpine|  ucb-general|mamo3970|Marta Moreno Ibáñez|billing|0
+alpine|  ucb-general|mamu2437|Matthew Murray|billing|78
+alpine|  ucb-general|mamu9533|Max Muter|billing|2
+alpine|  ucb-general|maor9382|Marcos Ortega Keshmiri|billing|34
+alpine|  ucb-general|mapa7010|Matthew Pauk|billing|0
+alpine|  ucb-general|mape2330|Mateo Perez|billing|2050
+alpine|  ucb-general|mape3482|Marisa Petrusky|billing|95
+alpine|  ucb-general|mapu1518|Manaswi Pulijala|billing|1
+alpine|  ucb-general|maruyama|Maruyama|billing|12
+alpine|  ucb-general|masc4523|Margaret Scholer|billing|12
+alpine|  ucb-general|masi9600|Max Silver|billing|16
+alpine|  ucb-general|mast9128|Mark Stephenson|billing|139
+alpine|  ucb-general|mata6682|Masayuki Takeuchi|billing|5
+alpine|  ucb-general|mawa5935|Madeleine Wade|billing|3106
+alpine|  ucb-general|maya1144|Marwa Yacouti|billing|0
+alpine|  ucb-general|mcla2793|Mckenzie Larson|billing|821
+alpine|  ucb-general|mecr8410|Reagan Cronin|billing|24
+alpine|  ucb-general|meehl|Janet Meehl|billing|0
+alpine|  ucb-general|mesc3719|Melia Scholl|billing|1
+alpine|  ucb-general|metm9666|Megan Thompson-munson|billing|32
+alpine|  ucb-general|mewu4448|Mengyu Wu|billing|492
+alpine|  ucb-general|mezh5868|Mengjie Zheng|billing|36624
+alpine|  ucb-general|mibe3040|Milo Beall|billing|2
+alpine|  ucb-general|mica5951|Calkins|billing|192
+alpine|  ucb-general|mich8560|Mia Chaw|billing|0
+alpine|  ucb-general|mich9173|Min Gon Chung|billing|16784
+alpine|  ucb-general|mide5396|Michael Dempsey|billing|126
+alpine|  ucb-general|migi8081|Michael Ginn|billing|871
+alpine|  ucb-general|migr6479|Mina Griffioen|billing|126
+alpine|  ucb-general|milu3967|Michael Luzadder|billing|16177
+alpine|  ucb-general|mima7379|Michelle Maclennan|billing|4498
+alpine|  ucb-general|mimo8852|Miles Moore|billing|0
+alpine|  ucb-general|mimu1249|Mia Muse|billing|629
+alpine|  ucb-general|mior8386|Michael Orellana|billing|58
+alpine|  ucb-general|mire0265|Michael Reh|billing|28
+alpine|  ucb-general|miro8496|Michael Rollin|billing|144
+alpine|  ucb-general|misc7570|Michael Schneider|billing|815
+alpine|  ucb-general|mish4610|Michael Shirts|billing|14
+alpine|  ucb-general|mish8350|Michael Shiferaw|billing|2
+alpine|  ucb-general|miwa1018|Minyan Wang|billing|2
+alpine|  ucb-general|mizh6070|Miles Zheng|billing|4
+alpine|  ucb-general|mizzi|Arthur Mizzi|billing|679
+alpine|  ucb-general|moam3950|Mohammed Amin|billing|0
+alpine|  ucb-general|moha2290|Molly Hardman|billing|208
+alpine|  ucb-general|moha2380|Mohammad Habibi|billing|8
+alpine|  ucb-general|mokh8410|Mohal Khandelwal|billing|897
+alpine|  ucb-general|momo4949|Mohamed Ibrahim Abdelmagid Abdelmagid|billing|147
+alpine|  ucb-general|momo6802|Mostafa Mohammadian|billing|164
+alpine|  ucb-general|monaghaa|Andrew Monaghan|billing|4
+alpine|  ucb-general|mooc9229|Monica Ochoa|billing|277
+alpine|  ucb-general|moti9373|Moyi Tian|billing|234
+alpine|  ucb-general|mozh7931|Mo Zhou|billing|0
+alpine|  ucb-general|naag9822|Nathan Agarwal|billing|21839
+alpine|  ucb-general|naca4005|Natalie Castro|billing|2246
+alpine|  ucb-general|naga2950|Nausica Gaither|billing|347
+alpine|  ucb-general|nakl4035|Nathan Klimpel|billing|100
+alpine|  ucb-general|nale8203|Natalie LeMessurier|billing|180968
+alpine|  ucb-general|nape3206|Naomi Pearlman|billing|0
+alpine|  ucb-general|nasc4134|Nathanael Schwindt|billing|7
+alpine|  ucb-general|niba5902|Nicholas Barendregt|billing|46
+alpine|  ucb-general|nica4786|Nicholas Carter|billing|1072151
+alpine|  ucb-general|nich7312|Niranjan Cholendiran|billing|83
+alpine|  ucb-general|nide5854|Nik Dennler|billing|100
+alpine|  ucb-general|niha1797|Nicholas Hartman|billing|25
+alpine|  ucb-general|nihe1301|Nicole Hemming-Schroeder|billing|12
+alpine|  ucb-general|niku3156|Nitin Kumar|billing|24
+alpine|  ucb-general|nila3952|Nicole Labbe|billing|0
+alpine|  ucb-general|nile1773|Nina Le|billing|86
+alpine|  ucb-general|nily9199|Nikolai Lyssogor|billing|7
+alpine|  ucb-general|nimi2356|Nicholas Miller|billing|1
+alpine|  ucb-general|nimo6349|Nicholas Montagu|billing|19694
+alpine|  ucb-general|nipa7920|Nihal Pandra|billing|8
+alpine|  ucb-general|niro3177|Nicholas Rovito|billing|6640
+alpine|  ucb-general|nita1760|Nicolas Tarasewicz|billing|0
+alpine|  ucb-general|nofr6730|Noah Francis|billing|592
+alpine|  ucb-general|nope3648|Sylvester Peterson|billing|0
+alpine|  ucb-general|nope7188|Nolan Petrich|billing|8
+alpine|  ucb-general|nova3529|Noemie Valenza-Troubat|billing|64
+alpine|  ucb-general|olmc1995|Olivia McCarthy|billing|36
+alpine|  ucb-general|olqu1783|Oliver Quinonez|billing|202
+alpine|  ucb-general|oyno6161|Oyvind Norli|billing|0
+alpine|  ucb-general|pada3531|Pavan Dayal|billing|0
+alpine|  ucb-general|pafr7911|Patrick Frankel|billing|104190
+alpine|  ucb-general|pagh1940|Parsa Ghadermazi|billing|6261
+alpine|  ucb-general|pagr4853|Patrick Graham|billing|0
+alpine|  ucb-general|pahi9557|Parker Hinton|billing|6
+alpine|  ucb-general|papi9224|Patrick Pillans|billing|6701
+alpine|  ucb-general|paro1093|Pamela Romero Villela|billing|294255
+alpine|  ucb-general|pash5326|Parth Shah|billing|24
+alpine|  ucb-general|pasu1297|Paloma Suarez Davila|billing|0
+alpine|  ucb-general|peal3949|Pedro Lemos|billing|61
+alpine|  ucb-general|pech7461|Peter Changala|billing|53
+alpine|  ucb-general|peci5825|Pedro Cintron Baerga|billing|66
+alpine|  ucb-general|phch1529|Phillip Choi|billing|139
+alpine|  ucb-general|phva9129|Phani Arvind Vadali|billing|49320
+alpine|  ucb-general|phwh9568|Philip White|billing|27
+alpine|  ucb-general|pofi9269|Polly Fitton|billing|12
+alpine|  ucb-general|pose0289|Pooja Sekhar|billing|10779
+alpine|  ucb-general|prch4742|Pruthviraj Chaudhari|billing|7
+alpine|  ucb-general|prra5491|Prajit Rawte|billing|15691
+alpine|  ucb-general|prsh1291|Pray Shah|billing|2
+alpine|  ucb-general|prve7843|Pranay Venkatesh|billing|572
+alpine|  ucb-general|rach1772|Rajarshi Chattopadhyay|billing|2866
+alpine|  ucb-general|rafe1786|Rafael Ferreira De menezes|billing|0
+alpine|  ucb-general|rajo7273|Rachel Middleton|billing|283
+alpine|  ucb-general|raleighm|Mark Raleigh|billing|0
+alpine|  ucb-general|raod4659|Raphael Odai|billing|42
+alpine|  ucb-general|raow2434|Raythe Owens|billing|2101
+alpine|  ucb-general|rapa2737|Rashmi Pant|billing|104
+alpine|  ucb-general|raro0632|Rachel Robey|billing|12
+alpine|  ucb-general|rask8867|Rasmus Skousen|billing|0
+alpine|  ucb-general|raya9258|Rahul Yadav|billing|66
+alpine|  ucb-general|rcops|User|billing|16
+alpine|  ucb-general|rcsoftware|RC software service account|billing|1984
+alpine|  ucb-general|reak3132|Reza Akbarian Bafghi|billing|48
+alpine|  ucb-general|reak4480|Remi Akinwonmi|billing|630
+alpine|  ucb-general|reba1583|Becca Baiman|billing|12
+alpine|  ucb-general|remc1874|Reagan McKee|billing|0
+alpine|  ucb-general|rera8642|Reda Razza|billing|268511
+alpine|  ucb-general|riap9705|Riley Apen|billing|1
+alpine|  ucb-general|rile5166|River Leversee|billing|3340
+alpine|  ucb-general|riro3277|Ricardo Roopnarinesingh|billing|64
+alpine|  ucb-general|rocr2339|Romulo Cruz-Simbron|billing|2446
+alpine|  ucb-general|roda9210|Rohan Das|billing|540
+alpine|  ucb-general|roka5002|Robert Kaplan|billing|2
+alpine|  ucb-general|roma8902|Robyn Marowitz|billing|0
+alpine|  ucb-general|romc5058|Rory Mcclish|billing|0
+alpine|  ucb-general|ropa5718|Ross Palomaki|billing|607
+alpine|  ucb-general|rora3641|Robert Ramos|billing|0
+alpine|  ucb-general|rora7551|Rohit Raju|billing|1825
+alpine|  ucb-general|rosa5922|Robert Sasse|billing|210
+alpine|  ucb-general|roso8920|Rosemary Vivien Southwell|billing|47
+alpine|  ucb-general|rsingh|Singh|billing|448
+alpine|  ucb-general|ruch2556|Rumer Chatwin|billing|78
+alpine|  ucb-general|rupi4021|Ruth Quispe Pilco|billing|129
+alpine|  ucb-general|rusu1402|Rui Sun|billing|4
+alpine|  ucb-general|ruzic|Ruzic|billing|504
+alpine|  ucb-general|ryde3462|Ryan Delaney|billing|26101
+alpine|  ucb-general|rygr1582|Ryan Greer|billing|102
+alpine|  ucb-general|rygr1645|Ryan Grimm|billing|26097
+alpine|  ucb-general|rymo8067|Ryan Montoya|billing|2037
+alpine|  ucb-general|ryro5445|Ryan Roa|billing|96
+alpine|  ucb-general|saad1282|Sabina Adhikari|billing|2
+alpine|  ucb-general|saga9575|Sankalp Gaur|billing|1
+alpine|  ucb-general|sago5539|Samiksha Gopinath|billing|43
+alpine|  ucb-general|sagu5032|Sajal Gupta|billing|22
+alpine|  ucb-general|saha1191|Sarah Hastings|billing|5
+alpine|  ucb-general|saki9598|Sarah Kinney|billing|0
+alpine|  ucb-general|sako6004|Saravana Kumar Kodakinti Prakash|billing|14
+alpine|  ucb-general|sash5263|Samantha Sheppard|billing|1175
+alpine|  ucb-general|sast7866|Sarah Stevenson|billing|0
+alpine|  ucb-general|sasw7584|Sara Swenson|billing|681
+alpine|  ucb-general|sath5981|Samba Siva Sai Prasad Thota|billing|51
+alpine|  ucb-general|satr6581|Sara Tro|billing|120
+alpine|  ucb-general|scotts|James Stewart|billing|0
+alpine|  ucb-general|scru5660|Scott Runnels|billing|38
+alpine|  ucb-general|seefeldm|Mark Seefeldt|billing|34
+alpine|  ucb-general|sefl7948|Sean Florez|billing|4
+alpine|  ucb-general|seja5319|mehrdad Jalayer|billing|80
+alpine|  ucb-general|sele7124|Sebastien Lenard|billing|167334
+alpine|  ucb-general|sema4648|Seyed Ali Marashian Saraei|billing|400
+alpine|  ucb-general|sesh9096|Sean Shi|billing|0
+alpine|  ucb-general|sewh5266|Seth White|billing|12
+alpine|  ucb-general|seya1820|Sen Yan|billing|13659
+alpine|  ucb-general|sheb3400|Shaquille Ebadi|billing|1
+alpine|  ucb-general|shkr5213|Shriprajwal Krishnamurthy|billing|0
+alpine|  ucb-general|shla9937|Shawn Laursen|billing|1
+alpine|  ucb-general|shme6119|Shutang Meng|billing|18595
+alpine|  ucb-general|shme9005|Shawn Meyer|billing|5
+alpine|  ucb-general|shso9201|Shuyu Song|billing|0
+alpine|  ucb-general|siam9919|Sienna Amorese|billing|12
+alpine|  ucb-general|sika2030|Siddharth Kalyanasundaram|billing|19
+alpine|  ucb-general|sike5275|Siobhan Kells|billing|24
+alpine|  ucb-general|sile6618|Sina Lewis|billing|80308
+alpine|  ucb-general|sima7709|Sindhu Manchikanti|billing|1
+alpine|  ucb-general|simi8434|Siamak Mirfendereski|billing|36
+alpine|  ucb-general|sira5139|Sivakumar Ramakrishnan|billing|0
+alpine|  ucb-general|soal2130|Sofia Allison|billing|3
+alpine|  ucb-general|sobr2039|Sophie Breunig|billing|899
+alpine|  ucb-general|sode5531|Solomon Desta|billing|6
+alpine|  ucb-general|soro9368|Souradeep Roychowdhury|billing|97148
+alpine|  ucb-general|srbh4687|Srijan Bhattacharyya|billing|495
+alpine|  ucb-general|srsr9160|Srihari Srinivasan|billing|214
+alpine|  ucb-general|suda8685|Suhas Dasenahalli Lingaraju|billing|46
+alpine|  ucb-general|sugo5467|Surya Sharon Raj Goda|billing|6
+alpine|  ucb-general|supa2351|Subrata Pal|billing|843
+alpine|  ucb-general|suye3881|Suxuen Yew|billing|0
+alpine|  ucb-general|taal0678|Talal Al Refae|billing|153
+alpine|  ucb-general|tava8993|Tania Varesano|billing|5527
+alpine|  ucb-general|tawa4517|Tanner Watkins|billing|21
+alpine|  ucb-general|tebr8026|Teagan Browne|billing|46
+alpine|  ucb-general|tepr6090|Teo Price-broncucia|billing|401
+alpine|  ucb-general|thal6786|Thomas Allard|billing|0
+alpine|  ucb-general|thca4096|Thiago Cardoso|billing|3
+alpine|  ucb-general|thch7683|Thomas Chaney|billing|3
+alpine|  ucb-general|thfo9888|Theodore Fobe|billing|14
+alpine|  ucb-general|tiai0563|Tim Aiken|billing|3694402
+alpine|  ucb-general|tibe0349|Tim Behrer|billing|0
+alpine|  ucb-general|tibe3324|Timotej Bernat|billing|7
+alpine|  ucb-general|tili3995|Tianchu Li|billing|23192
+alpine|  ucb-general|tite1979|Timothy Teh|billing|7
+alpine|  ucb-general|toch9438|Tong Chen|billing|2073
+alpine|  ucb-general|toga2996|Tommy Garcia|billing|1156
+alpine|  ucb-general|tool7881|Tobias Oliver|billing|24
+alpine|  ucb-general|tore0450|Tomaz Remec|billing|0
+alpine|  ucb-general|trpe1655|Tristan Peterson|billing|0
+alpine|  ucb-general|trri7400|Trinity Rieck|billing|192
+alpine|  ucb-general|trudeaum|Michael Trudeau|billing|1
+alpine|  ucb-general|tuku1953|Tushar Kundu|billing|2154
+alpine|  ucb-general|tyje9409|Tyler Jensen|billing|0
+alpine|  ucb-general|tymc5571|Tyler McIntosh|billing|0
+alpine|  ucb-general|typa7327|Tyler Pachuda|billing|3
+alpine|  ucb-general|tyre9767|Tyler Renken|billing|0
+alpine|  ucb-general|tyst3273|Tyler Sterling|billing|186
+alpine|  ucb-general|vabr6469|Vanessa Brown|billing|0
+alpine|  ucb-general|vaho6394|Varun Hoskere|billing|0
+alpine|  ucb-general|vakr3628|Vaikunth Keshav Krishnan|billing|8
+alpine|  ucb-general|vavl9391|Valeriia Vlasenko|billing|29
+alpine|  ucb-general|vich2264|Victoria Childs|billing|24
+alpine|  ucb-general|viha4393|Vikas Hanasoge Nataraja|billing|64
+alpine|  ucb-general|vike3198|Vince Kelly|billing|39902
+alpine|  ucb-general|vili4418|Vivian Li|billing|2
+alpine|  ucb-general|vrpa3077|Vraj Patel|billing|2
+alpine|  ucb-general|wavi0116|Walter Virany|billing|13462
+alpine|  ucb-general|wessler|Timothy Wessler|billing|2
+alpine|  ucb-general|wibe4964|William Bertrand|billing|44
+alpine|  ucb-general|wide5736|Winston Decredico|billing|174
+alpine|  ucb-general|wimi7695|William Mills|billing|0
+alpine|  ucb-general|wiro8106|William Rose|billing|2785
+alpine|  ucb-general|wisc2130|William Schwend|billing|16
+alpine|  ucb-general|wisc6983|Will Schermer|billing|48536
+alpine|  ucb-general|wish9826|Will Sheeran|billing|91
+alpine|  ucb-general|xiaodong|Liu|billing|0
+alpine|  ucb-general|xili7301|Xiongwei Liu|billing|591047
+alpine|  ucb-general|yado0832|Yaxue Dong|billing|26052
+alpine|  ucb-general|yaji8030|Yan Jin|billing|88
+alpine|  ucb-general|yali2799|Sherrie Liu|billing|763
+alpine|  ucb-general|yaxu2031|Yanyan Xu|billing|557
+alpine|  ucb-general|yaxu2271|Yang Xu|billing|4
+alpine|  ucb-general|yazh1078|Yangchengsi Zhang|billing|1769
+alpine|  ucb-general|yoga4783|Yosha Gautam|billing|32
+alpine|  ucb-general|yoko2261|Young Hyun Koo|billing|1
+alpine|  ucb-general|yuga3894|Yuti Gao|billing|665
+alpine|  ucb-general|yuli3660|Yuan-Jen Lin|billing|4454
+alpine|  ucb-general|yuna1623|Yumeka Nagano|billing|24
+alpine|  ucb-general|yush9037|Yuan Shi|billing|7363
+alpine|  ucb-general|yush9908|Yuval Shmilovitz|billing|0
+alpine|  ucb-general|zaam1924|Zahra Amiri|billing|19
+alpine|  ucb-general|zabe5498|Zachary Benziger|billing|428
+alpine|  ucb-general|zair9172|Zachariah Irwin|billing|0
+alpine|  ucb-general|zami4053|Zachary Michael|billing|1607
+alpine|  ucb-general|zani7674|Zachary Nino|billing|4
+alpine|  ucb-general|zawi2451|Zachary Wiethorn|billing|2
+alpine|  ucb-general|zhca3576|Zhen Cai|billing|298
+alpine|  ucb-general|zhca6502|Zheng Cai|billing|0
+alpine|  ucb-general|zhwa3087|Zhiyong Wang|billing|219497
+alpine|  ucb-general|zhyu5639|Zhou Yu|billing|4911744
+alpine|  ucb-general|zhzh4897|Weijia Zhan|billing|0
+alpine|  ucb-general|zido2651|Travis Dong|billing|187
+alpine|  ucb-general|zinchenk|Alexander Zinchenko|billing|153000
+alpine|  ucb-general|ziyi1066|Ziqi Yin|billing|38
+alpine| ucb-projects|||billing|17450349
+alpine|  ucb187_asc1|||billing|32222
+alpine|   ucb187_asc1|mezh5868|Mengjie Zheng|billing|32222
+alpine|  ucb212_asc1|||billing|163106
+alpine|   ucb212_asc1|diwu8132|Di Wu|billing|875
+alpine|   ucb212_asc1|guli2564|Guiye Li|billing|3074
+alpine|   ucb212_asc1|zhyu5639|Zhou Yu|billing|159157
+alpine|  ucb258_alpine1|||billing|0
+alpine|   ucb258_alpine1|monaghaa|Andrew Monaghan|billing|0
+alpine|  ucb268_peak3|||billing|102138
+alpine|   ucb268_peak3|adva8200|Adrian van Kan|billing|102138
+alpine|  ucb268_peak4|||billing|57920
+alpine|   ucb268_peak4|adva8200|Adrian van Kan|billing|57920
+alpine|  ucb269_asc3|||billing|110620
+alpine|   ucb269_asc3|srbh4687|Srijan Bhattacharyya|billing|110620
+alpine|  ucb271_peak2|||billing|522338
+alpine|   ucb271_peak2|brco3678|Brianna Corsa|billing|503390
+alpine|   ucb271_peak2|colo5210|Cole Lombardi|billing|1865
+alpine|   ucb271_peak2|jojo8550|Joel Johnson|billing|14283
+alpine|   ucb271_peak2|krti5528|Kristy Tiampo|billing|6
+alpine|   ucb271_peak2|phch1529|Phillip Choi|billing|2794
+alpine|  ucb273_peak2|||billing|1522134
+alpine|   ucb273_peak2|dula6235|Duncan Laird|billing|239588
+alpine|   ucb273_peak2|faah7178|Farhan Ahmed|billing|225612
+alpine|   ucb273_peak2|jash5736|Jas Hemant Shahanand|billing|3860
+alpine|   ucb273_peak2|nila3952|Nicole Labbe|billing|536004
+alpine|   ucb273_peak2|prsh1291|Pray Shah|billing|517070
+alpine|  ucb273_peak3|||billing|102310
+alpine|   ucb273_peak3|dula6235|Duncan Laird|billing|25169
+alpine|   ucb273_peak3|faah7178|Farhan Ahmed|billing|52587
+alpine|   ucb273_peak3|jash5736|Jas Hemant Shahanand|billing|4853
+alpine|   ucb273_peak3|prsh1291|Pray Shah|billing|19702
+alpine|  ucb274_asc3|||billing|719
+alpine|   ucb274_asc3|diga9728|Diego Garcia|billing|391
+alpine|   ucb274_asc3|luel6939|Luis Elias|billing|328
+alpine|   ucb274_asc3|oyno6161|Oyvind Norli|billing|0
+alpine|  ucb278_asc2|||billing|21414
+alpine|   ucb278_asc2|amhe4269|Amy Hegarty|billing|21414
+alpine|  ucb278_asc3|||billing|81549
+alpine|   ucb278_asc3|amhe4269|Amy Hegarty|billing|81549
+alpine|  ucb279_asc2|||billing|0
+alpine|   ucb279_asc2|isar4902|Isaac Armstrong|billing|0
+alpine|  ucb279_asc3|||billing|210743
+alpine|   ucb279_asc3|isar4902|Isaac Armstrong|billing|210743
+alpine|  ucb282_asc3|||billing|1850
+alpine|   ucb282_asc3|lula5408|Lucas Ladenburger|billing|1850
+alpine|  ucb286_asc2|||billing|2955
+alpine|   ucb286_asc2|jeca4282|Jessica Calme|billing|520
+alpine|   ucb286_asc2|moha2290|Molly Hardman|billing|2401
+alpine|   ucb286_asc2|roma8902|Robyn Marowitz|billing|34
+alpine|  ucb288_peak2|||billing|26160
+alpine|   ucb288_peak2|joda7419|Joao Manuel da Silva Santos|billing|26160
+alpine|  ucb289_asc3|||billing|79
+alpine|   ucb289_asc3|kuad8709|K. Aditi|billing|79
+alpine|  ucb294_asc2|||billing|9636
+alpine|   ucb294_asc2|chhs7313|Chia-Hua Hsu|billing|9636
+alpine|  ucb296_asc2|||billing|18699
+alpine|   ucb296_asc2|joev8535|J. Scott Evans|billing|18562
+alpine|   ucb296_asc2|sugu5633|Sumedha Gupta|billing|137
+alpine|  ucb298_alpine2|||billing|763270
+alpine|   ucb298_alpine2|brni6463|Brian Nies|billing|4770
+alpine|   ucb298_alpine2|nale8203|Natalie LeMessurier|billing|246130
+alpine|   ucb298_alpine2|sile6618|Sina Lewis|billing|512370
+alpine|  ucb298_peak3|||billing|217820
+alpine|   ucb298_peak3|brni6463|Brian Nies|billing|45278
+alpine|   ucb298_peak3|nale8203|Natalie LeMessurier|billing|101439
+alpine|   ucb298_peak3|rygr1645|Ryan Grimm|billing|162
+alpine|   ucb298_peak3|sile6618|Sina Lewis|billing|70942
+alpine|  ucb303_asc2|||billing|100943
+alpine|   ucb303_asc2|biokem|Group User|billing|100943
+alpine|  ucb303_asc3|||billing|2
+alpine|   ucb303_asc3|biokem|Group User|billing|2
+alpine|  ucb305_asc2|||billing|1343
+alpine|   ucb305_asc2|diga9728|Diego Garcia|billing|1343
+alpine|  ucb306_asc2|||billing|3679
+alpine|   ucb306_asc2|diga9728|Diego Garcia|billing|3469
+alpine|   ucb306_asc2|oyno6161|Oyvind Norli|billing|211
+alpine|  ucb307_asc2|||billing|9750
+alpine|   ucb307_asc2|rile5166|River Leversee|billing|9750
+alpine|  ucb313_asc2|||billing|1082
+alpine|   ucb313_asc2|wibe4964|William Bertrand|billing|1082
+alpine|  ucb313_asc3|||billing|288
+alpine|   ucb313_asc3|wibe4964|William Bertrand|billing|288
+alpine|  ucb320_asc2|||billing|4909
+alpine|   ucb320_asc2|kehi6101|Ken Hirata|billing|4909
+alpine|  ucb325_asc2|||billing|9149
+alpine|   ucb325_asc2|basi7344|Baljit Singh|billing|7882
+alpine|   ucb325_asc2|joku8258|Jo Kurian|billing|1267
+alpine|  ucb336_asc2|||billing|0
+alpine|   ucb336_asc2|jacr0382|James Crowley|billing|0
+alpine|  ucb338_asc2|||billing|3335
+alpine|   ucb338_asc2|anzu2965|Anna Zuckerman|billing|3335
+alpine|  ucb338_asc3|||billing|155
+alpine|   ucb338_asc3|anzu2965|Anna Zuckerman|billing|155
+alpine|  ucb339_peak2|||billing|97890
+alpine|   ucb339_peak2|fapo3151|Fatemeh Pourahmadian|billing|96545
+alpine|   ucb339_peak2|yaxu2271|Yang Xu|billing|1345
+alpine|  ucb339_peak3|||billing|40427
+alpine|   ucb339_peak3|fapo3151|Fatemeh Pourahmadian|billing|40427
+alpine|  ucb342_asc2|||billing|258614
+alpine|   ucb342_asc2|dora1300|Dominique Ramirez|billing|258614
+alpine|  ucb345_asc2|||billing|8646
+alpine|   ucb345_asc2|riro3277|Ricardo Roopnarinesingh|billing|8646
+alpine|  ucb346_asc1|||billing|0
+alpine|   ucb346_asc1|lafr9499|Layla Freeborn|billing|0
+alpine|   ucb346_asc1|monaghaa|Andrew Monaghan|billing|0
+alpine|  ucb346_asc2|||billing|0
+alpine|   ucb346_asc2|lafr9499|Layla Freeborn|billing|0
+alpine|   ucb346_asc2|monaghaa|Andrew Monaghan|billing|0
+alpine|  ucb348_peak2|||billing|154931
+alpine|   ucb348_peak2|adha3409|Adam Harris|billing|139528
+alpine|   ucb348_peak2|arki6954|Armin Kianfar|billing|15403
+alpine|  ucb349_asc2|||billing|314
+alpine|   ucb349_asc2|kewh5868|Keith White|billing|74
+alpine|   ucb349_asc2|laro9334|Lacey Roberts|billing|61
+alpine|   ucb349_asc2|thch7683|Thomas Chaney|billing|179
+alpine|  ucb351_asc2|||billing|181124
+alpine|   ucb351_asc2|anfr8476|Anika Friedman|billing|181124
+alpine|  ucb357_asc2|||billing|76514
+alpine|   ucb357_asc2|rile5166|River Leversee|billing|76514
+alpine|  ucb358_asc2|||billing|22683
+alpine|   ucb358_asc2|rocr2339|Romulo Cruz-Simbron|billing|22683
+alpine|  ucb363_asc2|||billing|2036
+alpine|   ucb363_asc2|kosm6966|Kori Smyser|billing|2036
+alpine|  ucb364_peak1|||billing|179761
+alpine|   ucb364_peak1|alun7358|Alexandra (Alex) Unangst|billing|61
+alpine|   ucb364_peak1|kyfi6353|Kyle Fisch|billing|179700
+alpine|  ucb364_peak2|||billing|1140461
+alpine|   ucb364_peak2|alun7358|Alexandra (Alex) Unangst|billing|14111
+alpine|   ucb364_peak2|kawy5915|Kaitlyn Wynes|billing|9663
+alpine|   ucb364_peak2|kyfi6353|Kyle Fisch|billing|1116687
+alpine|  ucb365_asc2|||billing|17088
+alpine|   ucb365_asc2|mape3482|Marisa Petrusky|billing|17088
+alpine|  ucb366_asc2|||billing|38846
+alpine|   ucb366_asc2|heca6383|Henry Cardwell|billing|32942
+alpine|   ucb366_asc2|lade5217|Laura Denton|billing|190
+alpine|   ucb366_asc2|mimu1249|Mia Muse|billing|1207
+alpine|   ucb366_asc2|romc5058|Rory Mcclish|billing|4507
+alpine|  ucb370_asc2|||billing|4191
+alpine|   ucb370_asc2|shfi4480|Shane Fiorenza|billing|4191
+alpine|  ucb371_asc2|||billing|1571
+alpine|   ucb371_asc2|alka7042|Altug Karakurt|billing|1571
+alpine|  ucb375_asc2|||billing|31257
+alpine|   ucb375_asc2|mast9128|Mark Stephenson|billing|31257
+alpine|  ucb377_asc1|||billing|0
+alpine|   ucb377_asc1|mala3317|Matthew Laskowski|billing|0
+alpine|  ucb377_asc2|||billing|4447
+alpine|   ucb377_asc2|mala3317|Matthew Laskowski|billing|4447
+alpine|  ucb378_asc2|||billing|1997
+alpine|   ucb378_asc2|kilo7259|Kirk Long|billing|1997
+alpine|  ucb383_asc2|||billing|2780085
+alpine|   ucb383_asc2|liga5493|Lily Gayou|billing|135287
+alpine|   ucb383_asc2|zido2651|Travis Dong|billing|2644799
+alpine|  ucb385_asc2|||billing|984510
+alpine|   ucb385_asc2|rafe1786|Rafael Ferreira De menezes|billing|984510
+alpine|  ucb386_asc2|||billing|26518
+alpine|   ucb386_asc2|dafu9850|Daisy Fuchs|billing|26518
+alpine|  ucb389_peak2|||billing|1385
+alpine|   ucb389_peak2|mica5951|Calkins|billing|1385
+alpine|  ucb392_asc2|||billing|3145
+alpine|   ucb392_asc2|star7023|Stephane Aroca-ouellette|billing|3145
+alpine|  ucb404_peak2|||billing|421912
+alpine|   ucb404_peak2|abal2132|Abdulaziz Alherz|billing|89103
+alpine|   ucb404_peak2|ahbi8358|Ahmed Biby|billing|288414
+alpine|   ucb404_peak2|bael4348|Basant Elshoky|billing|44395
+alpine|  ucb407_asc2|||billing|2530
+alpine|   ucb407_asc2|late8018|Lane Terry|billing|2530
+alpine|  ucb410_peak2|||billing|1059438
+alpine|   ucb410_peak2|laro5944|Laurel Robbins|billing|1059438
+alpine|  ucb413_asc2|||billing|67780
+alpine|   ucb413_asc2|sash5263|Samantha Sheppard|billing|67780
+alpine|  ucb415_asc2|||billing|83035
+alpine|   ucb415_asc2|sape6991|Sayed Saeed Pezeshki Najafabadi|billing|83035
+alpine|  ucb419_asc1|||billing|0
+alpine|   ucb419_asc1|aspe7977|Ash Pera|billing|0
+alpine|  ucb423_asc2|||billing|56731
+alpine|   ucb423_asc2|beyo2625|Benjamin Young|billing|56731
+alpine|  ucb436_asc2|||billing|0
+alpine|   ucb436_asc2|moha2290|Molly Hardman|billing|0
+alpine|  ucb439_asc1|||billing|0
+alpine|   ucb439_asc1|monaghaa|Andrew Monaghan|billing|0
+alpine|  ucb439_asc2|||billing|0
+alpine|   ucb439_asc2|monaghaa|Andrew Monaghan|billing|0
+alpine|  ucb444_asc1|||billing|19724
+alpine|   ucb444_asc1|safr1880|Samantha Friess|billing|19724
+alpine|  ucb444_asc2|||billing|316717
+alpine|   ucb444_asc2|safr1880|Samantha Friess|billing|316717
+alpine|  ucb445_asc1|||billing|136
+alpine|   ucb445_asc1|chlu6955|Chenwei Lu|billing|136
+alpine|  ucb447_asc1|||billing|5
+alpine|   ucb447_asc1|momo6802|Mostafa Mohammadian|billing|5
+alpine|  ucb450_asc2|||billing|61884
+alpine|   ucb450_asc2|beop5934|Benjamin Oppenheimer|billing|0
+alpine|   ucb450_asc2|kaad8904|Kalvyn Adams|billing|61884
+alpine|  ucb457_asc1|||billing|0
+alpine|   ucb457_asc1|anma1879|AnnMarie Madigan|billing|0
+alpine|  ucb461_asc1|||billing|88373
+alpine|   ucb461_asc1|emri5473|Emma Rieves|billing|88373
+alpine|  ucb462_asc1|||billing|399
+alpine|   ucb462_asc1|sath5981|Samba Siva Sai Prasad Thota|billing|399
+alpine|  ucb462_asc2|||billing|724
+alpine|   ucb462_asc2|sath5981|Samba Siva Sai Prasad Thota|billing|724
+alpine|  ucb465_asc1|||billing|683280
+alpine|   ucb465_asc1|prra5491|Prajit Rawte|billing|683280
+alpine|  ucb469_asc1|||billing|2541
+alpine|   ucb469_asc1|thfo9888|Theodore Fobe|billing|2541
+alpine|  ucb470_asc1|||billing|106084
+alpine|   ucb470_asc1|makl3799|Maddie Klumb|billing|106084
+alpine|  ucb472_asc1|||billing|65312
+alpine|   ucb472_asc1|ryde3462|Ryan Delaney|billing|65312
+alpine|  ucb474_asc1|||billing|916
+alpine|   ucb474_asc1|alar6830|Alex Arnold|billing|916
+alpine|  ucb475_asc1|||billing|55942
+alpine|   ucb475_asc1|gakr4055|Garyfallia Kromyda|billing|55942
+alpine|  ucb476_asc1|||billing|127520
+alpine|   ucb476_asc1|chte9199|Chayut Teeraratkul|billing|127520
+alpine|  ucb477_asc1|||billing|5628
+alpine|   ucb477_asc1|viha4393|Vikas Hanasoge Nataraja|billing|5628
+alpine|  ucb482_asc1|||billing|43
+alpine|   ucb482_asc1|jogr4852|Josh Gregory|billing|43
+alpine|  ucb483_asc1|||billing|218
+alpine|   ucb483_asc1|alja5627|Ali Jafarzadeh|billing|218
+alpine|  ucb485_asc1|||billing|44345
+alpine|   ucb485_asc1|jafa3629|Jack Farrell|billing|44345
+alpine|  ucb486_asc1|||billing|102
+alpine|   ucb486_asc1|seja5319|mehrdad Jalayer|billing|102
+alpine|  ucb487_asc1|||billing|5626
+alpine|   ucb487_asc1|cote3804|Cooper Tezak|billing|5626
+alpine|  ucb489_asc1|||billing|65220
+alpine|   ucb489_asc1|mire0265|Michael Reh|billing|65220
+alpine|  ucb490_asc1|||billing|59
+alpine|   ucb490_asc1|nihe1301|Nicole Hemming-Schroeder|billing|59
+alpine|  ucb491_asc1|||billing|11033
+alpine|   ucb491_asc1|jera1607|Jens Rataczak|billing|11033
+alpine|  ucb495_asc1|||billing|36686
+alpine|   ucb495_asc1|yush9908|Yuval Shmilovitz|billing|36686
+alpine|  ucb499_asc1|||billing|26331
+alpine|   ucb499_asc1|kabi2891|Kaitlyn Bishay|billing|26331
+alpine|  ucb500_asc1|||billing|169607
+alpine|   ucb500_asc1|juho8819|Julianne Hoeflich|billing|161523
+alpine|   ucb500_asc1|pafr7911|Patrick Frankel|billing|8084
+alpine|  ucb501_asc1|||billing|3355
+alpine|   ucb501_asc1|daki6073|Joey Kilpatrick|billing|3355
+alpine|  ucb502_asc1|||billing|279402
+alpine|   ucb502_asc1|hapa3524|Hannah Padgette|billing|279402
+alpine|  ucb514_peak1|||billing|6139
+alpine|   ucb514_peak1|copa4551|Cory Paik|billing|6139
+alpine|  ucb516_asc1|||billing|71357
+alpine|   ucb516_asc1|yuna1623|Yumeka Nagano|billing|71357
+alpine|  ucb519_asc1|||billing|2
+alpine|   ucb519_asc1|taal0678|Talal Al Refae|billing|2
+alpine|  ucb520_asc1|||billing|5210
+alpine|   ucb520_asc1|lezu7058|Leah Zuckerman|billing|5210
+alpine|  ucb523_asc1|||billing|16138
+alpine|   ucb523_asc1|maha7624|Madelyn Hair|billing|16137
+alpine|   ucb523_asc1|nimo6349|Nicholas Montagu|billing|1
+alpine|  ucb525_asc1|||billing|2770
+alpine|   ucb525_asc1|loqu2608|Lorenzzo Quevedo Mantovani|billing|2770
+alpine|  ucb528_asc1|||billing|52
+alpine|   ucb528_asc1|jore1803|John Reiland|billing|52
+alpine|  ucb534_asc1|||billing|0
+alpine|   ucb534_asc1|yoko2261|Young Hyun Koo|billing|0
+alpine|  ucb535_asc1|||billing|802049
+alpine|   ucb535_asc1|fana6609|Fahsai Nakarin|billing|802049
+alpine|  ucb538_asc1|||billing|518
+alpine|   ucb538_asc1|emkr1571|Emily Kraus|billing|518
+alpine|  ucb539_asc1|||billing|6434
+alpine|   ucb539_asc1|elsm1726|Ellington Smith|billing|6434
+alpine|  ucb542_asc1|||billing|315146
+alpine|   ucb542_asc1|tyst3273|Tyler Sterling|billing|315146
+alpine|  ucb543_asc1|||billing|45534
+alpine|   ucb543_asc1|brun1463|Brianna Undzis|billing|45534
+alpine|  ucb544_peak1|||billing|118661
+alpine|   ucb544_peak1|hawi5021|Hannah Wilcox|billing|4920
+alpine|   ucb544_peak1|jeca4282|Jessica Calme|billing|75065
+alpine|   ucb544_peak1|moha2290|Molly Hardman|billing|36064
+alpine|   ucb544_peak1|roma8902|Robyn Marowitz|billing|2611
+alpine|  ucb545_peak1|||billing|51846
+alpine|   ucb545_peak1|arpi3148|Artem Pimachev|billing|51846
+alpine|  ucb546_peak1|||billing|369505
+alpine|   ucb546_peak1|chhs7313|Chia-Hua Hsu|billing|369505
+alpine|  ucb551_asc1|||billing|4540
+alpine|   ucb551_asc1|wisc2130|William Schwend|billing|4540
+alpine|  ucb553_asc1|||billing|36421
+alpine|   ucb553_asc1|lebe6861|Leo Beck|billing|36421
+alpine|  ucb559_asc1|||billing|1314
+alpine|   ucb559_asc1|coka4389|Collin Kadlecek|billing|1314
+alpine|  ucb563_asc1|||billing|53984
+alpine|   ucb563_asc1|chge4493|Christina Geller|billing|53984
+alpine|  ucb565_asc1|||billing|6201
+alpine|   ucb565_asc1|rosa5922|Robert Sasse|billing|6201
+alpine|  ucb566_asc1|||billing|554
+alpine|   ucb566_asc1|leni2816|Lena Niepelt|billing|554
+alpine|  ucb569_asc1|||billing|3702
+alpine|   ucb569_asc1|chol8795|Christine Olson|billing|3702
+alpine|  ucb572_asc1|||billing|24895
+alpine|   ucb572_asc1|isza5860|Isabella Zane|billing|24895
+alpine|  ucb573_peak1|||billing|776882
+alpine|   ucb573_peak1|adwi9965|Adam Wiemerslage|billing|776882
+alpine|  ucb575_asc1|||billing|0
+alpine|   ucb575_asc1|maha7624|Madelyn Hair|billing|0
+alpine|  ucb576_asc1|||billing|27256
+alpine|   ucb576_asc1|chwa2399|Christopher Walker|billing|26825
+alpine|   ucb576_asc1|tibe3324|Timotej Bernat|billing|431
+alpine|  ucb579_asc1|||billing|42374
+alpine|   ucb579_asc1|buchanae|Buchanan|billing|42374
+alpine|  ucb584_asc1|||billing|13947
+alpine|   ucb584_asc1|hesa5269|Heinrich Salzmann|billing|13947
+alpine|  ucb585_asc1|||billing|2308
+alpine|   ucb585_asc1|kaba6117|Katherine Bardsley|billing|2308
+alpine|  ucb587_asc1|||billing|1
+alpine|   ucb587_asc1|anra7539|Ankush Raut|billing|1
+alpine|  ucb589_asc1|||billing|0
+alpine|   ucb589_asc1|alli4718|Alvin Li|billing|0
+alpine|  ucb592_asc1|||billing|566
+alpine|   ucb592_asc1|zaam1924|Zahra Amiri|billing|566
+alpine|  ucb593_asc1|||billing|185916
+alpine|   ucb593_asc1|alal7557|Ali Almelhem|billing|185916
+alpine|  ucb595_asc1|||billing|285503
+alpine|   ucb595_asc1|sagu5032|Sajal Gupta|billing|285503
+alpine|  ucb596_asc1|||billing|11648
+alpine|   ucb596_asc1|brha0386|Brandon Hayes|billing|11632
+alpine|   ucb596_asc1|clph3665|Clil Phillips|billing|16
+alpine|  ucb598_asc1|||billing|957
+alpine|   ucb598_asc1|yuli3660|Yuan-Jen Lin|billing|957
+alpine|  ucb599_asc1|||billing|24889
+alpine|   ucb599_asc1|arra4944|Arjun Ashok Rao|billing|24889
+alpine|  ucb600_asc1|||billing|1326
+alpine|   ucb600_asc1|suda8685|Suhas Dasenahalli Lingaraju|billing|1326
+alpine|  ucb602_asc1|||billing|40018
+alpine|   ucb602_asc1|elka1772|Eli Katz|billing|40018
+alpine|  ucb603_asc1|||billing|0
+alpine|   ucb603_asc1|mamu9533|Max Muter|billing|0
+alpine|  ucb604_asc1|||billing|0
+alpine|   ucb604_asc1|kagr0580|Kacper Gradon|billing|0
+alpine|  ucb605_asc1|||billing|0
+alpine|   ucb605_asc1|sode5531|Solomon Desta|billing|0
+alpine|  ucb606_asc1|||billing|0
+alpine|   ucb606_asc1|brre2566|Brandon Reyes|billing|0
+alpine|  ucb607_asc1|||billing|42256
+alpine|   ucb607_asc1|arra4944|Arjun Ashok Rao|billing|42256
+alpine|  ucb612_asc1|||billing|1
+alpine|   ucb612_asc1|jeca4282|Jessica Calme|billing|1
+alpine|  ucb613_asc1|||billing|13632
+alpine|   ucb613_asc1|jodo2960|Johnny Dorigo Jones|billing|13632
+alpine|  ucb615_asc1|||billing|6417
+alpine|   ucb615_asc1|yado0832|Yaxue Dong|billing|6417
+alpine|  ucb620_asc1|||billing|405
+alpine|   ucb620_asc1|jogr4852|Josh Gregory|billing|405
+alpine|   ucb620_asc1|jore1803|John Reiland|billing|0
+alpine|  ucb621_asc1|||billing|7
+alpine|   ucb621_asc1|jaso7378|Jaehee Song|billing|7
+alpine|  ucb622_asc1|||billing|55
+alpine|   ucb622_asc1|maha7624|Madelyn Hair|billing|55
+alpine|  ucb625_asc1|||billing|1590
+alpine|   ucb625_asc1|jola3134|Joseph Laforet|billing|1590
+alpine|  ucb626_asc1|||billing|26
+alpine|   ucb626_asc1|lizh4497|Leo Zhang|billing|26

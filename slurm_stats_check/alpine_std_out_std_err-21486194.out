@@ -1,0 +1,20 @@
+no change     /curc/sw/anaconda3/2023.09/condabin/conda
+no change     /curc/sw/anaconda3/2023.09/bin/conda
+no change     /curc/sw/anaconda3/2023.09/bin/conda-env
+no change     /curc/sw/anaconda3/2023.09/bin/activate
+no change     /curc/sw/anaconda3/2023.09/bin/deactivate
+no change     /curc/sw/anaconda3/2023.09/etc/profile.d/conda.sh
+no change     /curc/sw/anaconda3/2023.09/etc/fish/conf.d/conda.fish
+no change     /curc/sw/anaconda3/2023.09/shell/condabin/Conda.psm1
+no change     /curc/sw/anaconda3/2023.09/shell/condabin/conda-hook.ps1
+no change     /curc/sw/anaconda3/2023.09/lib/python3.11/site-packages/xontrib/conda.xsh
+no change     /curc/sw/anaconda3/2023.09/etc/profile.d/conda.csh
+modified      /home/mlippincott@xsede.org/.bashrc
+
+==> For changes to take effect, close and re-open your current shell. <==
+
+[NbConvertApp] Converting notebook notebooks/slurm_stats.ipynb to script
+[NbConvertApp] Writing 6187 bytes to scripts/slurm_stats.py
+[NbConvertApp] Converting notebook notebooks/slurm_stats_plotting.ipynb to script
+[NbConvertApp] Writing 5772 bytes to scripts/slurm_stats_plotting.py
+slurmstepd: error: *** JOB 21486194 ON c3cpu-c15-u9-3 CANCELLED AT 2025-12-15T20:55:53 DUE TO TIME LIMIT ***

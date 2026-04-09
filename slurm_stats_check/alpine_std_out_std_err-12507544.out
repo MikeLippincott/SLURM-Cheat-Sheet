@@ -1,0 +1,95 @@
+Lmod has detected the following error: The following module(s) are unknown:
+"mambaforge"
+
+Please check the spelling or version number. Also try "module spider ..."
+It is also possible your cache file is out-of-date; it may help to try:
+  $ module --ignore-cache load "mambaforge"
+
+Also make sure that all modulefiles written in TCL start with the string
+#%Module
+
+
+
+no change     /curc/sw/anaconda3/2023.09/condabin/conda
+no change     /curc/sw/anaconda3/2023.09/bin/conda
+no change     /curc/sw/anaconda3/2023.09/bin/conda-env
+no change     /curc/sw/anaconda3/2023.09/bin/activate
+no change     /curc/sw/anaconda3/2023.09/bin/deactivate
+no change     /curc/sw/anaconda3/2023.09/etc/profile.d/conda.sh
+no change     /curc/sw/anaconda3/2023.09/etc/fish/conf.d/conda.fish
+no change     /curc/sw/anaconda3/2023.09/shell/condabin/Conda.psm1
+no change     /curc/sw/anaconda3/2023.09/shell/condabin/conda-hook.ps1
+no change     /curc/sw/anaconda3/2023.09/lib/python3.11/site-packages/xontrib/conda.xsh
+no change     /curc/sw/anaconda3/2023.09/etc/profile.d/conda.csh
+modified      /home/mlippincott@xsede.org/.bashrc
+
+==> For changes to take effect, close and re-open your current shell. <==
+
+[NbConvertApp] Converting notebook notebooks/slurm_stats.ipynb to script
+[NbConvertApp] Writing 6465 bytes to scripts/slurm_stats.py
+Top 50 users by usage for the last 10000 days
+                      Login             Proper Name Institution      Used
+0          jinamo@xsede.org               Jun Inamo    Anschutz  10877037
+1          cclark@xsede.org       Christopher Clark    Anschutz   1376545
+2       jonpitsch@xsede.org         Jonathan Pitsch    Anschutz   1064955
+3         jmejia1@xsede.org              Josh Mejia    Anschutz   1063076
+4     mlippincott@xsede.org     Micahael Lippincott    Anschutz   1008054
+5         skinder@xsede.org            Scott Kinder    Anschutz    744074
+6            sren@xsede.org              Siyang Ren    Anschutz    627700
+7       abeckwith@xsede.org          Aaron Beckwith    Anschutz    537611
+8         ywang12@xsede.org                Yue Wang    Anschutz    529807
+9           mduff@xsede.org              Megan Duff    Anschutz    498853
+10        elucero@xsede.org          Esteban Lucero    Anschutz    473564
+11      sandersen@xsede.org         Shelby Andersen    Anschutz    462149
+12             thda0001_amc                  Thomas    Anschutz    406046
+13      jcardwell@xsede.org       Jonathan Cardwell    Anschutz    379705
+14     grahampeet@xsede.org             Graham Peet    Anschutz    332634
+15        swhite3@xsede.org          Samantha White    Anschutz    321707
+16        stifour@xsede.org            Souha Tifour    Anschutz    276008
+17        mfisher@xsede.org          Matthew Fisher    Anschutz    263508
+18       nrafaels@xsede.org            Nick Rafaels    Anschutz    252725
+19      jhoffman2@xsede.org            Jill Hoffman    Anschutz    248495
+20         aivich@xsede.org           Adriana Ivich    Anschutz    246648
+21        sridoux@xsede.org            Shane Ridoux    Anschutz    240022
+22        mmchugo@xsede.org          Maureen McHugo    Anschutz    237327
+23          aeg22@xsede.org        Andrew Goodspeed    Anschutz    233432
+24        ksamart@xsede.org          Kewalin Samart    Anschutz    222708
+25         abrack@xsede.org            Alison Brack    Anschutz    196444
+26         sslack@xsede.org             Sarah Slack    Anschutz    169015
+27        agillen@xsede.org           Austin Gillen    Anschutz    150037
+28       sreynoso@xsede.org        Samantha Reynoso    Anschutz    143727
+29        galbert@xsede.org        Gabriella Albert    Anschutz    126969
+30      uthakuria@xsede.org        Upasana Thakuria    Anschutz    124274
+31       sniemiec@xsede.org          Sierra Niemiec    Anschutz    124038
+32        aghosh5@xsede.org          Abhirupa Ghosh    Anschutz    120290
+33        aburtis@xsede.org         Abbigayl Burtis    Anschutz     99996
+34      rkrishna1@xsede.org         Revanth Krishna    Anschutz     99203
+35      kriemondy@xsede.org           Kent Riemondy    Anschutz     93136
+36      ebrenner1@xsede.org            Evan Brenner    Anschutz     90241
+37       agupta06@xsede.org             Arnav Gupta    Anschutz     78954
+38             krwe0001_amc                 Kristen    Anschutz     76980
+39       kferrier@xsede.org          Kendra Ferrier    Anschutz     71910
+40           ceck@xsede.org              Connor Eck    Anschutz     68818
+41  lvanderlinden@xsede.org     Lauren Vanderlinden    Anschutz     68228
+42      kyomogida@xsede.org        Kentaro Yomogida    Anschutz     67715
+43      mboorgula@xsede.org  Meher Preethi Boorgula    Anschutz     55357
+44       chuangqi@xsede.org           Chuangqi Wang    Anschutz     54632
+45       joconnor@xsede.org           John O'Connor    Anschutz     54442
+46        scohen1@xsede.org            Shirli Cohen    Anschutz     54136
+47          cvang@xsede.org            Charmie Vang    Anschutz     53684
+48        jyoung1@xsede.org              Jade Young    Anschutz     52574
+49   lgillenwater@xsede.org       Lucas Gillenwater    Anschutz     48058
+Compute and wait time for mlippincott@xsede.org by partition for the last 10000 days
+            hours_computed      wait  wait_ratio
+partition                                       
+aa100           371.096111    2316.0    6.240971
+acompile         80.290556       0.0    0.000000
+al40              6.274167     629.0  100.252358
+amem          11289.823611  160458.0   14.212622
+ami100            0.191944       0.0    0.000000
+amilan       145261.368056   40935.0    0.281802
+atesting          0.055000       0.0    0.000000
+atesting_+        3.616944       0.0    0.000000
+mlippincott@xsede.org has waited a total of 23.33 years in queue in the last 10000 days
+mlippincott@xsede.org has used a total of 17.92 years of compute time in the last 10000 days
+mlippincott@xsede.org has used a total of 1008054 SUs in the last 10000 days for a total of 115.07 years

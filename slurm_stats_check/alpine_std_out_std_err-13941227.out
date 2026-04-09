@@ -1,0 +1,191 @@
+
+Lmod is automatically replacing "miniforge/24.11.3-0" with "anaconda/2023.09".
+
+/curc/sw/anaconda3/2023.09/etc/profile.d/conda.sh: line 9: : command not found
+no change     /curc/sw/anaconda3/2023.09/condabin/conda
+no change     /curc/sw/anaconda3/2023.09/bin/conda
+no change     /curc/sw/anaconda3/2023.09/bin/conda-env
+no change     /curc/sw/anaconda3/2023.09/bin/activate
+no change     /curc/sw/anaconda3/2023.09/bin/deactivate
+no change     /curc/sw/anaconda3/2023.09/etc/profile.d/conda.sh
+no change     /curc/sw/anaconda3/2023.09/etc/fish/conf.d/conda.fish
+no change     /curc/sw/anaconda3/2023.09/shell/condabin/Conda.psm1
+no change     /curc/sw/anaconda3/2023.09/shell/condabin/conda-hook.ps1
+no change     /curc/sw/anaconda3/2023.09/lib/python3.11/site-packages/xontrib/conda.xsh
+no change     /curc/sw/anaconda3/2023.09/etc/profile.d/conda.csh
+no change     /home/mlippincott@xsede.org/.bashrc
+No action taken.
+[NbConvertApp] Converting notebook notebooks/slurm_stats.ipynb to script
+[NbConvertApp] Writing 6465 bytes to scripts/slurm_stats.py
+Top 500 users by usage for the last 90 days
+                             Login  ...    Used
+0              abeckwith@xsede.org  ...  701022
+1                     seda0001_amc  ...  544936
+2                sridoux@xsede.org  ...  509735
+3               nrafaels@xsede.org  ...  442523
+4                 jlin18@xsede.org  ...  388898
+5             grahampeet@xsede.org  ...  375661
+6              jhoffman2@xsede.org  ...  331422
+7               kferrier@xsede.org  ...  220974
+8                 nwang1@xsede.org  ...  215956
+9            mlippincott@xsede.org  ...  166629
+10               swhite3@xsede.org  ...  127071
+11             jonpitsch@xsede.org  ...   70881
+12             drestrepo@xsede.org  ...   70573
+13                  dkao@xsede.org  ...   70030
+14                jinamo@xsede.org  ...   68259
+15                aivich@xsede.org  ...   67594
+16               ksamart@xsede.org  ...   65012
+17                vvohra@xsede.org  ...   60644
+18       skrishnamoorthy@xsede.org  ...   58394
+19               aghosh5@xsede.org  ...   55237
+20              sreynoso@xsede.org  ...   54280
+21             kyomogida@xsede.org  ...   53798
+22          apolegpolsky@xsede.org  ...   47729
+23               jmejia1@xsede.org  ...   38363
+24                 cvang@xsede.org  ...   31494
+25               srajery@xsede.org  ...   28942
+26                sslack@xsede.org  ...   28534
+27          sshrivastava@xsede.org  ...   25039
+28                 aeg22@xsede.org  ...   24838
+29              joconnor@xsede.org  ...   23757
+30           elathouwers@xsede.org  ...   23458
+31                  ceck@xsede.org  ...   22737
+32        ldebritovargas@xsede.org  ...   20678
+33             rkrishna1@xsede.org  ...   18334
+34              kheyfetv@xsede.org  ...   17980
+35              hzhang24@xsede.org  ...   16898
+36             ebrenner1@xsede.org  ...   15031
+37                    krwe0001_amc  ...   14302
+38                  sren@xsede.org  ...   14083
+39              tgibson2@xsede.org  ...   13674
+40                hzhu10@xsede.org  ...   12515
+41          lgillenwater@xsede.org  ...    9425
+42          krosenberger@xsede.org  ...    9351
+43               ywang12@xsede.org  ...    8868
+44              ebaschal@xsede.org  ...    7574
+45                 hvose@xsede.org  ...    7279
+46         lvanderlinden@xsede.org  ...    7095
+47                    thda0001_amc  ...    6665
+48                chill1@xsede.org  ...    6405
+49        fsimoesdesouza@xsede.org  ...    6181
+50              hdashnow@xsede.org  ...    6079
+51               jshortt@xsede.org  ...    5890
+52                    etda0001_amc  ...    5307
+53                 tliu4@xsede.org  ...    4619
+54              kterwelp@xsede.org  ...    4174
+55             lkaruturi@xsede.org  ...    3961
+56               ychen65@xsede.org  ...    3841
+57              aunangst@xsede.org  ...    3664
+58               agillen@xsede.org  ...    3612
+59              brunetti@xsede.org  ...    3379
+60              jnelson1@xsede.org  ...    3261
+61               mmchugo@xsede.org  ...    3211
+62               hsmith1@xsede.org  ...    2503
+63          wbaumgartner@xsede.org  ...    2395
+64               aburtis@xsede.org  ...    2366
+65              nanxiguo@xsede.org  ...    2077
+66                   xsu@xsede.org  ...    1930
+67        nlimondelarosa@xsede.org  ...    1863
+68                akakar@xsede.org  ...    1757
+69               sgipson@xsede.org  ...    1710
+70                kfotso@xsede.org  ...    1700
+71                clowry@xsede.org  ...    1614
+72                    mika0001_amc  ...    1540
+73                morman@xsede.org  ...    1463
+74                abrack@xsede.org  ...    1340
+75                  mlin@xsede.org  ...    1273
+76             jcardwell@xsede.org  ...    1269
+77            kvinodpaul@xsede.org  ...    1219
+78               mosmond@xsede.org  ...    1218
+79          ppadmanabhan@xsede.org  ...    1121
+80                 ewall@xsede.org  ...    1112
+81                tdoan1@xsede.org  ...    1070
+82               cschaaf@xsede.org  ...     919
+83             edecurtis@xsede.org  ...     876
+84               elucero@xsede.org  ...     835
+85                sxiao3@xsede.org  ...     796
+86      tvargasblackbear@xsede.org  ...     785
+87              lcedrone@xsede.org  ...     767
+88           ikonigsberg@xsede.org  ...     667
+89               gakatsu@xsede.org  ...     655
+90             etrujillo@xsede.org  ...     596
+91              mhansen2@xsede.org  ...     550
+92               aavvaru@xsede.org  ...     530
+93                yguo16@xsede.org  ...     528
+94             ahussain1@xsede.org  ...     449
+95          svenugopalan@xsede.org  ...     409
+96                mjatoi@xsede.org  ...     403
+97              smentzer@xsede.org  ...     380
+98            ssimmerman@xsede.org  ...     369
+99              msherren@xsede.org  ...     334
+100               kjames@xsede.org  ...     332
+101               ewynn1@xsede.org  ...     262
+102                  qye@xsede.org  ...     242
+103             cwedding@xsede.org  ...     231
+104             mbrasher@xsede.org  ...     220
+105             agupta06@xsede.org  ...     202
+106             jhendrix@xsede.org  ...     196
+107             lfeldman@xsede.org  ...     194
+108           dfarrell20@xsede.org  ...     192
+109              kvembar@xsede.org  ...     192
+110            adischler@xsede.org  ...     175
+111              ssadeeq@xsede.org  ...     168
+112           zbedrosian@xsede.org  ...     157
+113               ijoshi@xsede.org  ...     115
+114             rlesiyon@xsede.org  ...      92
+115             ebamberg@xsede.org  ...      85
+116             alzofonn@xsede.org  ...      78
+117               pcaley@xsede.org  ...      72
+118            cmattson1@xsede.org  ...      69
+119  sgutierrezdiazhenry@xsede.org  ...      60
+120               jcole1@xsede.org  ...      52
+121         jprendergast@xsede.org  ...      49
+122               mapgar@xsede.org  ...      47
+123              mfoster@xsede.org  ...      40
+124              djones1@xsede.org  ...      36
+125             resol341@xsede.org  ...      35
+126            berickson@xsede.org  ...      30
+127              jaloway@xsede.org  ...      24
+128              ewolfe1@xsede.org  ...      24
+129              ojegede@xsede.org  ...      24
+130               aleon2@xsede.org  ...      24
+131            mpividori@xsede.org  ...      20
+132             skumar11@xsede.org  ...      16
+133               amckim@xsede.org  ...      13
+134                qfang@xsede.org  ...      12
+135              mcasey1@xsede.org  ...      12
+136           cmorrison1@xsede.org  ...      12
+137           jtomkinson@xsede.org  ...      11
+138            kyamkovoy@xsede.org  ...      10
+139            kmanpearl@xsede.org  ...       7
+140           jwilliams4@xsede.org  ...       6
+141             abutton1@xsede.org  ...       6
+142              ransomm@xsede.org  ...       5
+143               phicks@xsede.org  ...       5
+144        slopezignacio@xsede.org  ...       5
+145             ssills24@xsede.org  ...       4
+146              crepaci@xsede.org  ...       4
+147                agray@xsede.org  ...       3
+148                xwei5@xsede.org  ...       3
+149        jolivascorral@xsede.org  ...       2
+150        salbersfester@xsede.org  ...       2
+151             cmancuso@xsede.org  ...       1
+152             aassante@xsede.org  ...       1
+153            tsalvetti@xsede.org  ...       1
+154            dsarbaugh@xsede.org  ...       1
+155                xfan1@xsede.org  ...       1
+
+[156 rows x 4 columns]
+Compute and wait time for mlippincott@xsede.org by partition for the last 90 days
+            hours_computed     wait  wait_ratio
+partition                                      
+aa100           285.482500  17345.0   60.756789
+acompile         44.602778      0.0    0.000000
+al40              6.320000    632.0  100.000000
+amem            210.927778     11.0    0.052151
+amilan         6872.107500    951.0    0.138385
+atesting_+        6.286667      0.0    0.000000
+mlippincott@xsede.org has waited a total of 2.16 years in queue in the last 90 days
+mlippincott@xsede.org has used a total of 309.41 days of compute time in the last 90 days
+mlippincott@xsede.org has used a total of 166629 SUs in the last 90 days for a total of 19.02 years

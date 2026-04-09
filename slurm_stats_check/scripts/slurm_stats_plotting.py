@@ -7,7 +7,11 @@
 import argparse
 import pathlib
 
+import matplotlib.dates as mdates
+import matplotlib.pyplot as plt
+import numpy as np
 import pandas as pd
+import seaborn as sns
 
 try:
     cfg = get_ipython().config
@@ -101,12 +105,17 @@ if not in_notebook:
     n = args.top_n
 else:
     days = 10000
-    user = "mlippincott@xsede.org"
+    user = "michael.lippincott@xsede.org"
     n = 500
 
 
 acct_file_path = pathlib.Path("../slurm_stats_files/").resolve(strict=True)
 jobs_file_path = pathlib.Path("../slurm_stats_files/").resolve(strict=True)
+
+
+# In[5]:
+
+
 # find the most recent file in the directory
 acct_files = list(acct_file_path.glob("*accounts*"))
 job_files = list(jobs_file_path.glob("*jobs*"))
@@ -117,59 +126,7 @@ acct_file_path = acct_files[0]  # get the most recent accounts file
 jobs_file_path = job_files[0]  # get the most recent jobs file
 
 
-# In[5]:
-
-
-# read the file the first row has the column names and the rest of the rows are the data
-
-df = pd.read_csv(acct_file_path, sep="|", header=0, skiprows=1)
-# drop the columns that are not needed
-df = df.drop(
-    columns=[
-        "Cluster",
-        "Account",
-        # 'Login',
-        "TRES Name",
-    ]
-)
-df["Institution"] = "Anschutz"
-
-
-# In[ ]:
-
-
-df = df.groupby(["Login", "Proper Name", "Institution"]).sum().reset_index()
-# order the data by used
-df = df.sort_values(by="Used", ascending=False)
-# remove NaN values
-df = df.dropna()
-# remove 0 values
-df = df[df.Used != 0]
-# group by Login and sum the values
-
-df.reset_index(drop=True, inplace=True)
-# get the total usage for the user
-SUs = df[df["Login"] == user]["Used"].sum()
-# show all rows
-pd.set_option("display.max_rows", n)
-# drop the login column
-df = df.drop(columns=["Login"])
-# pretty print the top 15 users and their usage
-if n == -1:
-    print(f"Top {len(df)} users by usage for the last {days} days")
-    print(df)
-else:
-    print(f"Top {n} users by usage for the last {days} days")
-    print(df.head(n))
-
-# write the data to a file
-df.to_csv(
-    f"../results/{acct_file_path.stem.strip('_accounts_date')}_top_users.csv",
-    index=False,
-)
-
-
-# In[7]:
+# In[20]:
 
 
 # load the job stats file
@@ -208,21 +165,57 @@ print(f"Compute and wait time for {user} by partition for the last {days} days")
 print(hours_df)
 
 
+# In[7]:
+
+
+# split the start-time-date into date and time
+df["date"] = df["start-date-time"].str.split("T").str[0]
+df["year"] = df["date"].str.split("-").str[0]
+df["year_month"] = (
+    df["date"].str.split("-").str[0] + "-" + df["date"].str.split("-").str[1]
+)
+df["year_month"] = df["year_month"].astype(str)
+# get the total number of hours computed per date
+grouped_by_date_df = df.groupby("date").agg({"hours_computed": "sum", "wait": "sum"})
+grouped_by_date_df.reset_index(inplace=True)
+grouped_by_year_df = df.groupby("year").agg({"hours_computed": "sum", "wait": "sum"})
+grouped_by_year_df.reset_index(inplace=True)
+grouped_by_year_month_df = df.groupby("year_month").agg(
+    {"hours_computed": "sum", "wait": "sum"}
+)
+grouped_by_year_month_df.reset_index(inplace=True)
+
+
 # In[8]:
 
 
-# calculate the total wait time in hours
-# get summary statistics
-wait, wait_units = print_times(df, "wait")
-compute_time, compute_time_units = print_times(df, "hours_computed")
-su_time, su_time_units = SU_to_compute_time(SUs)
-print(
-    f"{user} has waited a total of {wait} {wait_units} in queue in the last {days} days"
+plt.figure(figsize=(20, 10))
+sns.barplot(
+    data=grouped_by_year_month_df,
+    x="year_month",
+    y="hours_computed",
+    label="Compute Time",
+    color="blue",
 )
-print(
-    f"{user} has used a total of {compute_time} {compute_time_units} of compute time in the last {days} days"
+# change the labels
+plt.xlabel("Date")
+plt.ylabel("Hours of compute")
+plt.show()
+
+
+# In[10]:
+
+
+plt.figure(figsize=(20, 10))
+sns.barplot(
+    data=grouped_by_year_df,
+    x="year",
+    y="hours_computed",
+    label="Compute Time",
+    color="blue",
 )
-print(
-    f"{user} has used a total of {SUs} SUs in the last {days} days for a total of {su_time} {su_time_units} if 1 SU = 1 hour of compute time"
-)
+# change the labels
+plt.xlabel("Year")
+plt.ylabel("Hours of compute")
+plt.show()
 
