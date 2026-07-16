@@ -4,7 +4,7 @@
 #SBATCH --time=14:00:00
 #SBATCH --partition=amilan
 #SBATCH --qos=normal
-#SBATCH --output=alpine_std_out_std_err-%j.out
+#SBATCH --output=logs/alpine_std_out_std_err-%j.out
 
 # Load the slurm module
 module purge
@@ -15,7 +15,7 @@ conda init bash
 
 days=10000
 USER="$USER"
-n=500
+n=-1
 
 # load env
 conda activate slurm_stats_env
@@ -32,12 +32,18 @@ accounts_file="$(date +%Y-%m-%d_%H:%M:%S)_accounts_date.csv"
 jobs_file="$(date +%Y-%m-%d_%H:%M:%S)_jobs_date.csv"
 
 # Get the accounts and jobs data
-suacct amc-general "$days" > "$accounts_file"
+# get the unique accounts
+unique_accounts=$(sacctmgr -n -P show accounts format=Account | sort -u)
+for account in $unique_accounts; do
+    suacct "$account" "$days" >> "$accounts_file"
+done
 jobstats "$USER" "$days" > "$jobs_file"
 
 
 cd ../scripts || exit
 
+# instead of running the python script
+# we should add the new file to the git repo and push it to the remote repo
+
 # Run the python script
 python slurm_stats.py --days "$days" --user "$USER" --top_n "$n"
-

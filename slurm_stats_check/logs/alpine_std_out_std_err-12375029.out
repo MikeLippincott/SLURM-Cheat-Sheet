@@ -1,0 +1,93 @@
+Lmod has detected the following error: The following module(s) are unknown:
+"mambaforge"
+
+Please check the spelling or version number. Also try "module spider ..."
+It is also possible your cache file is out-of-date; it may help to try:
+  $ module --ignore-cache load "mambaforge"
+
+Also make sure that all modulefiles written in TCL start with the string
+#%Module
+
+
+
+no change     /curc/sw/anaconda3/2023.09/condabin/conda
+no change     /curc/sw/anaconda3/2023.09/bin/conda
+no change     /curc/sw/anaconda3/2023.09/bin/conda-env
+no change     /curc/sw/anaconda3/2023.09/bin/activate
+no change     /curc/sw/anaconda3/2023.09/bin/deactivate
+no change     /curc/sw/anaconda3/2023.09/etc/profile.d/conda.sh
+no change     /curc/sw/anaconda3/2023.09/etc/fish/conf.d/conda.fish
+no change     /curc/sw/anaconda3/2023.09/shell/condabin/Conda.psm1
+no change     /curc/sw/anaconda3/2023.09/shell/condabin/conda-hook.ps1
+no change     /curc/sw/anaconda3/2023.09/lib/python3.11/site-packages/xontrib/conda.xsh
+no change     /curc/sw/anaconda3/2023.09/etc/profile.d/conda.csh
+modified      /home/mlippincott@xsede.org/.bashrc
+
+==> For changes to take effect, close and re-open your current shell. <==
+
+[NbConvertApp] Converting notebook notebooks/slurm_stats.ipynb to script
+[NbConvertApp] Writing 6465 bytes to scripts/slurm_stats.py
+Top 50 users by usage for the last 30 days
+                  Login                 Proper Name Institution     Used
+0              zido2651                 Travis Dong     Boulder  1918690
+1              tiai0563                   Tim Aiken     Boulder  1164235
+2              emsa1620              Emmanuel Sapin     Boulder  1001308
+3              emli6921                Emma Lietzke     Boulder   737648
+4              cale8294            Catherine Leszcz     Boulder   688964
+5              adwi9965            Adam Wiemerslage     Boulder   489959
+6              rafe1786  Rafael Ferreira De menezes     Boulder   489119
+7              basi7344                Baljit Singh     Boulder   440070
+8   abeckwith@xsede.org              Aaron Beckwith    Anschutz   399401
+9              anfr8476              Anika Friedman     Boulder   265646
+10             xili7301                Xiongwei Liu     Boulder   241984
+11             kyfi6353                  Kyle Fisch     Boulder   236424
+12             zhyu5639                     Zhou Yu     Boulder   234509
+13    sridoux@xsede.org                Shane Ridoux    Anschutz   231219
+14             nica4786             Nicholas Carter     Boulder   220330
+15             isar4902             Isaac Armstrong     Boulder   194798
+16             prra5491                Prajit Rawte     Boulder   184753
+17             nale8203         Natalie LeMessurier     Boulder   182445
+18             adha3409                 Adam Harris     Boulder   162635
+19             juni1816              Justin Nicoski     Boulder   159798
+20             abal2132            Abdulaziz Alherz     Boulder   139038
+21             sash5263           Samantha Sheppard     Boulder   138206
+22             fapo3151        Fatemeh Pourahmadian     Boulder   134995
+23             pose0289                Pooja Sekhar     Boulder   108724
+24             hapa3524             Hannah Padgette     Boulder   108299
+25             adva8200              Adrian van Kan     Boulder   102587
+26             prsh1291                   Pray Shah     Boulder    99050
+27             rile5166              River Leversee     Boulder    93136
+28             dafu9850                 Daisy Fuchs     Boulder    90728
+29             faah7178                Farhan Ahmed     Boulder    86948
+30             jafa3629                Jack Farrell     Boulder    83075
+31             jola3134              Joseph Laforet     Boulder    82319
+32             brco3678               Brianna Corsa     Boulder    81590
+33             sagu5032                 Sajal Gupta     Boulder    76560
+34             mast9128             Mark Stephenson     Boulder    74107
+35   kferrier@xsede.org              Kendra Ferrier    Anschutz    71694
+36             hong5183                Hoang Nguyen     Boulder    70360
+37             yuna1623               Yumeka Nagano     Boulder    66827
+38             juho8819           Julianne Hoeflich     Boulder    62523
+39             mezh5868               Mengjie Zheng     Boulder    62127
+40    swhite3@xsede.org              Samantha White    Anschutz    55988
+41             anth4580            Annette Thompson     Boulder    53895
+42             liwh2139            Lindsey Whitmore     Boulder    51465
+43             zinchenk         Alexander Zinchenko     Boulder    50093
+44   sreynoso@xsede.org            Samantha Reynoso    Anschutz    49503
+45             ansa1773                 A.J. Sauter     Boulder    47385
+46             soro9368      Souradeep Roychowdhury     Boulder    41636
+47             dula6235                Duncan Laird     Boulder    40679
+48  kyomogida@xsede.org            Kentaro Yomogida    Anschutz    39936
+49             elka1772                    Eli Katz     Boulder    39685
+Compute and wait time for mlippincott@xsede.org by partition for the last 30 days
+            hours_computed   wait  wait_ratio
+partition
+aa100            10.985278  219.0   19.935773
+acompile         35.980000    0.0    0.000000
+al40              6.274167  629.0  100.252358
+amem             20.835556    6.0    0.287969
+amilan         1249.260000  559.0    0.447465
+atesting_+        3.605556    0.0    0.000000
+mlippincott@xsede.org has waited a total of 58.88 days in queue in the last 30 days
+mlippincott@xsede.org has used a total of 55.29 days of compute time in the last 30 days
+mlippincott@xsede.org has used a total of 14006 SUs in the last 30 days for a total of 1.6 years

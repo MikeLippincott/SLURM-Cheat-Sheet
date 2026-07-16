@@ -1,0 +1,82 @@
+no change     /curc/sw/install/miniforge3/24.11.3-0/condabin/conda
+no change     /curc/sw/install/miniforge3/24.11.3-0/bin/conda
+no change     /curc/sw/install/miniforge3/24.11.3-0/bin/conda-env
+no change     /curc/sw/install/miniforge3/24.11.3-0/bin/activate
+no change     /curc/sw/install/miniforge3/24.11.3-0/bin/deactivate
+no change     /curc/sw/install/miniforge3/24.11.3-0/etc/profile.d/conda.sh
+no change     /curc/sw/install/miniforge3/24.11.3-0/etc/fish/conf.d/conda.fish
+no change     /curc/sw/install/miniforge3/24.11.3-0/shell/condabin/Conda.psm1
+no change     /curc/sw/install/miniforge3/24.11.3-0/shell/condabin/conda-hook.ps1
+no change     /curc/sw/install/miniforge3/24.11.3-0/lib/python3.12/site-packages/xontrib/conda.xsh
+no change     /curc/sw/install/miniforge3/24.11.3-0/etc/profile.d/conda.csh
+modified      /home/mlippincott@xsede.org/.bashrc
+
+==> For changes to take effect, close and re-open your current shell. <==
+
+[NbConvertApp] Converting notebook notebooks/slurm_stats.ipynb to script
+[NbConvertApp] Writing 4617 bytes to scripts/slurm_stats.py
+Top 50 users by usage for the last 900 days
+                      Login             Proper Name      Used
+1          jinamo@xsede.org               Jun Inamo  10872550
+2          cclark@xsede.org       Christopher Clark   1376545
+3       jonpitsch@xsede.org         Jonathan Pitsch   1062894
+4         jmejia1@xsede.org              Josh Mejia   1056856
+5     mlippincott@xsede.org     Micahael Lippincott    991515
+6         skinder@xsede.org            Scott Kinder    744074
+7            sren@xsede.org              Siyang Ren    627700
+8         ywang12@xsede.org                Yue Wang    529807
+9           mduff@xsede.org              Megan Duff    498853
+10        elucero@xsede.org          Esteban Lucero    473548
+11      sandersen@xsede.org         Shelby Andersen    462149
+13             thda0001_amc                  Thomas    404774
+14      jcardwell@xsede.org       Jonathan Cardwell    379666
+15     grahampeet@xsede.org             Graham Peet    331270
+16      abeckwith@xsede.org          Aaron Beckwith    288523
+17        swhite3@xsede.org          Samantha White    282257
+18        stifour@xsede.org            Souha Tifour    276008
+19        mfisher@xsede.org          Matthew Fisher    263508
+20        mmchugo@xsede.org          Maureen McHugo    235770
+21          aeg22@xsede.org        Andrew Goodspeed    232892
+22         aivich@xsede.org           Adriana Ivich    213289
+23      jhoffman2@xsede.org            Jill Hoffman    212920
+24        ksamart@xsede.org          Kewalin Samart    201879
+25       nrafaels@xsede.org            Nick Rafaels    196518
+26         abrack@xsede.org            Alison Brack    196444
+27         sslack@xsede.org             Sarah Slack    161645
+28        agillen@xsede.org           Austin Gillen    149981
+30       sreynoso@xsede.org        Samantha Reynoso    129396
+31        galbert@xsede.org        Gabriella Albert    126969
+32      uthakuria@xsede.org        Upasana Thakuria    124274
+33       sniemiec@xsede.org          Sierra Niemiec    124038
+34        sridoux@xsede.org            Shane Ridoux    117998
+35        aburtis@xsede.org         Abbigayl Burtis     98215
+36      rkrishna1@xsede.org         Revanth Krishna     96433
+37        aghosh5@xsede.org          Abhirupa Ghosh     95300
+38      kriemondy@xsede.org           Kent Riemondy     93136
+39      ebrenner1@xsede.org            Evan Brenner     89168
+40       agupta06@xsede.org             Arnav Gupta     78954
+41             krwe0001_amc                 Kristen     70532
+42  lvanderlinden@xsede.org     Lauren Vanderlinden     66946
+43           ceck@xsede.org              Connor Eck     66075
+44      kyomogida@xsede.org        Kentaro Yomogida     65368
+45      mboorgula@xsede.org  Meher Preethi Boorgula     55357
+46       chuangqi@xsede.org           Chuangqi Wang     54632
+47        scohen1@xsede.org            Shirli Cohen     54136
+48        jyoung1@xsede.org              Jade Young     52574
+49       joconnor@xsede.org           John O'Connor     52027
+50          cvang@xsede.org            Charmie Vang     45789
+51   lgillenwater@xsede.org       Lucas Gillenwater     43460
+52        egeiger@xsede.org        Elizabeth Geiger     42949
+Compute and wait time for mlippincott@xsede.org by partition for the last 900 days
+            partition  hours_computed      wait  wait_ratio
+partition
+aa100            2429      363.460278    1925.0    5.296315
+acompile          146       71.989444       0.0    0.000000
+al40                1        0.048056       0.0    0.000000
+amem            24419    11264.851667  160457.0   14.244040
+ami100              4        0.191944       0.0    0.000000
+amilan         310896   144331.228056   39988.0    0.277057
+atesting           20        0.055000       0.0    0.000000
+atesting_+         10        0.892222       0.0    0.000000
+mlippincott@xsede.org has waited a total of 23.1 years in queue in the last 900 days
+mlippincott@xsede.org has used a total of 17.81 years of compute time in the last 900 days

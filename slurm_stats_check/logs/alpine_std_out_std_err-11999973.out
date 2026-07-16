@@ -1,0 +1,141 @@
+no change     /curc/sw/install/miniforge3/24.11.3-0/condabin/conda
+no change     /curc/sw/install/miniforge3/24.11.3-0/bin/conda
+no change     /curc/sw/install/miniforge3/24.11.3-0/bin/conda-env
+no change     /curc/sw/install/miniforge3/24.11.3-0/bin/activate
+no change     /curc/sw/install/miniforge3/24.11.3-0/bin/deactivate
+no change     /curc/sw/install/miniforge3/24.11.3-0/etc/profile.d/conda.sh
+no change     /curc/sw/install/miniforge3/24.11.3-0/etc/fish/conf.d/conda.fish
+no change     /curc/sw/install/miniforge3/24.11.3-0/shell/condabin/Conda.psm1
+no change     /curc/sw/install/miniforge3/24.11.3-0/shell/condabin/conda-hook.ps1
+no change     /curc/sw/install/miniforge3/24.11.3-0/lib/python3.12/site-packages/xontrib/conda.xsh
+no change     /curc/sw/install/miniforge3/24.11.3-0/etc/profile.d/conda.csh
+no change     /home/mlippincott@xsede.org/.bashrc
+No action taken.
+[NbConvertApp] Converting notebook notebooks/slurm_stats.ipynb to script
+[NbConvertApp] Writing 4617 bytes to scripts/slurm_stats.py
+Top 500 users by usage for the last 30 days
+                             Login                    Proper Name    Used
+1              abeckwith@xsede.org                 Aaron Beckwith  278256
+2                  aeg22@xsede.org               Andrew Goodspeed  112610
+3                 aivich@xsede.org                  Adriana Ivich   48994
+4              jhoffman2@xsede.org                   Jill Hoffman   40716
+5                sridoux@xsede.org                   Shane Ridoux   32387
+6              kyomogida@xsede.org               Kentaro Yomogida   27722
+7                swhite3@xsede.org                 Samantha White   26545
+8               sreynoso@xsede.org               Samantha Reynoso   25796
+9                aghosh5@xsede.org                 Abhirupa Ghosh   19008
+10        ldebritovargas@xsede.org                 Luciana Vargas   17385
+11           mlippincott@xsede.org            Micahael Lippincott   16042
+12                  sren@xsede.org                     Siyang Ren   15729
+13                jinamo@xsede.org                      Jun Inamo   14724
+14             ebrenner1@xsede.org                   Evan Brenner   14333
+15             jonpitsch@xsede.org                Jonathan Pitsch   14072
+16                  ceck@xsede.org                     Connor Eck   13663
+17               jmejia1@xsede.org                     Josh Mejia   13058
+18                 cvang@xsede.org                   Charmie Vang   12917
+19               agillen@xsede.org                  Austin Gillen    8908
+20                sslack@xsede.org                    Sarah Slack    8386
+21             rkrishna1@xsede.org                Revanth Krishna    8113
+22              jhendrix@xsede.org              Josephina Hendrix    6140
+23               ksamart@xsede.org                 Kewalin Samart    5393
+24              joconnor@xsede.org                  John O'Connor    5152
+25            grahampeet@xsede.org                    Graham Peet    5079
+26         lvanderlinden@xsede.org            Lauren Vanderlinden    4405
+27              jnelson1@xsede.org                 Jessica Nelson    4345
+28                  dkao@xsede.org                     Daniel Kao    3814
+29               sgipson@xsede.org               Stephanie Gipson    3108
+30              kheyfetv@xsede.org                Vitaly Kheyfets    3064
+31         salbersfester@xsede.org            Sarah Albers Fester    2979
+32          lgillenwater@xsede.org              Lucas Gillenwater    2923
+33                chill1@xsede.org               Christopher Hill    2427
+34          krosenberger@xsede.org             Kaylee Rosenberger    2264
+35              nanxiguo@xsede.org                      Nanxi Guo    2076
+37                mapgar@xsede.org                  Madison Apgar    1682
+38                    krwe0001_amc                        Kristen    1421
+39                abrack@xsede.org                   Alison Brack    1413
+40             lkaruturi@xsede.org       Lakshmi Venkata Karuturi    1412
+41              tgibson2@xsede.org                   Tyler Gibson    1314
+42               mmchugo@xsede.org                 Maureen McHugo    1304
+43                hzhu10@xsede.org                        Han Zhu    1186
+44               aburtis@xsede.org                Abbigayl Burtis    1071
+45        nlimondelarosa@xsede.org                  Nathaly Limon    1065
+46              ebaschal@xsede.org                   Erin Baschal    1061
+47                    thda0001_amc                         Thomas     888
+48           elathouwers@xsede.org                Emma Lathouwers     885
+49               hsmith1@xsede.org                    Harry Smith     873
+50                    etda0001_amc                        Etienne     853
+51              aassante@xsede.org                 Alexis Assante     850
+52                   xsu@xsede.org                       Xilin Su     659
+53           ikonigsberg@xsede.org                Iain Konigsberg     633
+54              nrafaels@xsede.org                   Nick Rafaels     578
+55      tvargasblackbear@xsede.org                    Tada Vargas     566
+56          ppadmanabhan@xsede.org             Pranav Padmanabhan     479
+57               gakatsu@xsede.org                   Grace Akatsu     456
+58               mosmond@xsede.org                 Matthew Osmond     442
+59             drestrepo@xsede.org                 Diego Restrepo     440
+60              kterwelp@xsede.org               Katerina Terwelp     366
+61                kjames@xsede.org                  Kristen James     342
+62                tdoan1@xsede.org                       Thu Doan     311
+63              smentzer@xsede.org                  Sarah Mentzer     310
+64              kferrier@xsede.org                 Kendra Ferrier     302
+65               mfisher@xsede.org                 Matthew Fisher     250
+66              lfeldman@xsede.org                   Lily Feldman     194
+67               kvembar@xsede.org                  Keshav Vembar     189
+68               ssadeeq@xsede.org                  Suraju Sadeeq     178
+69              mbrasher@xsede.org                  Maizy Brasher     175
+70              alzofonn@xsede.org              Nathaniel Alzofon     172
+71             adischler@xsede.org                  Anna Dischler     166
+72                nwang1@xsede.org                    Nannan Wang     152
+73               cschaaf@xsede.org             Christopher Schaaf     125
+74               elucero@xsede.org                 Esteban Lucero     117
+75            zbedrosian@xsede.org                  Zoe Bedrosian     113
+76              mhansen2@xsede.org                   Maria Hansen     108
+77          jprendergast@xsede.org            Jessica Prendergast      85
+78              msherren@xsede.org                Maclean Sherren      76
+79            kvinodpaul@xsede.org                     Kiran Paul      68
+80          sshrivastava@xsede.org          Sudhanshu Shrivastava      63
+81                pcaley@xsede.org                    Paige Caley      54
+82                sxiao3@xsede.org                  Shaoming Xiao      53
+83               mstumpf@xsede.org                   Megan Stumpf      42
+84               aavvaru@xsede.org            Akshay Kumar Avvaru      39
+85               srajery@xsede.org  Sakaiza Rasolofomanana Rajery      36
+86                jlin18@xsede.org                     Junxia Lin      35
+87                akakar@xsede.org                   Aastha Kakar      33
+88                kuhler@xsede.org                  Kristin Uhler      32
+89                mjatoi@xsede.org                   Moomal Jatoi      32
+90              aunangst@xsede.org              Alexandra Unangst      31
+91   sgutierrezdiazhenry@xsede.org               Shalom Gutierrez      30
+92                  mlin@xsede.org                       Meng Lin      30
+93               mfoster@xsede.org                      MJ Foster      29
+94              resol341@xsede.org                      Sizhao Lu      29
+95              hdashnow@xsede.org                Harriet Dashnow      28
+96                jcole1@xsede.org                    Joanne Cole      25
+97                   qye@xsede.org                       Qihua Ye      20
+98             mpividori@xsede.org                Milton Pividori      19
+99              cwedding@xsede.org                 Carson Wedding      17
+100           aanderson1@xsede.org                Amanda Anderson      12
+101              mcasey1@xsede.org                  McKenna Casey      12
+102           dfarrell20@xsede.org                  David Farrell      12
+103             agupta06@xsede.org                    Arnav Gupta      11
+104            tsalvetti@xsede.org                Thomas Salvetti       8
+105             hzhang24@xsede.org                    Haoyu Zhang       6
+106        slopezignacio@xsede.org           Susana Lopez-Ignacio       5
+107            cmattson1@xsede.org                Cameron Mattson       4
+108       fsimoesdesouza@xsede.org          Fabio Simoes de Souza       4
+109            kmanpearl@xsede.org                Keenan Manpearl       3
+110               clowry@xsede.org                  Cameron Lowry       2
+111              ransomm@xsede.org                  Monica Ransom       2
+112               phicks@xsede.org                   Parker Hicks       2
+113              ewolfe1@xsede.org                    Ethan Wolfe       2
+114            dsarbaugh@xsede.org                 Dylan Sarbaugh       1
+Compute and wait time for mlippincott@xsede.org by partition for the last 30 days
+            partition  hours_computed   wait  wait_ratio
+partition
+aa100             273       13.695278  294.0   21.467254
+acompile           36       33.634167    0.0    0.000000
+al40                1        0.048056    0.0    0.000000
+amem               64      102.022778   98.0    0.960570
+amilan          33765      578.906389    0.0    0.000000
+atesting_+          6        0.267222    0.0    0.000000
+mlippincott@xsede.org has waited a total of 16.33 days in queue in the last 30 days
+mlippincott@xsede.org has used a total of 30.36 days of compute time in the last 30 days

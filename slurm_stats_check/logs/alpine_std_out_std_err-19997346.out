@@ -1,0 +1,453 @@
+no change     /curc/sw/anaconda3/2023.09/condabin/conda
+no change     /curc/sw/anaconda3/2023.09/bin/conda
+no change     /curc/sw/anaconda3/2023.09/bin/conda-env
+no change     /curc/sw/anaconda3/2023.09/bin/activate
+no change     /curc/sw/anaconda3/2023.09/bin/deactivate
+no change     /curc/sw/anaconda3/2023.09/etc/profile.d/conda.sh
+no change     /curc/sw/anaconda3/2023.09/etc/fish/conf.d/conda.fish
+no change     /curc/sw/anaconda3/2023.09/shell/condabin/Conda.psm1
+no change     /curc/sw/anaconda3/2023.09/shell/condabin/conda-hook.ps1
+no change     /curc/sw/anaconda3/2023.09/lib/python3.11/site-packages/xontrib/conda.xsh
+no change     /curc/sw/anaconda3/2023.09/etc/profile.d/conda.csh
+no change     /home/mlippincott@xsede.org/.bashrc
+No action taken.
+[NbConvertApp] Converting notebook notebooks/slurm_stats.ipynb to script
+[NbConvertApp] Writing 6187 bytes to scripts/slurm_stats.py
+[NbConvertApp] Converting notebook notebooks/slurm_stats_plotting.ipynb to script
+[NbConvertApp] Writing 5772 bytes to scripts/slurm_stats_plotting.py
+Top 500 users by usage for the last 10000 days
+                        Proper Name Institution      Used
+0                         Jun Inamo    Anschutz  10927756
+1                      Jill Hoffman    Anschutz   2558774
+2                 Christopher Clark    Anschutz   2551312
+3                        Siyang Ren    Anschutz   1796251
+4                        Josh Mejia    Anschutz   1399744
+5               Micahael Lippincott    Anschutz   1329810
+6                    Samantha White    Anschutz   1273132
+7                       Graham Peet    Anschutz   1256311
+8                 Alon Poleg-Polsky    Anschutz   1215260
+9                   Jonathan Pitsch    Anschutz   1146436
+10                             Sean    Anschutz   1104502
+11                     Nick Rafaels    Anschutz   1017157
+12                   Aaron Beckwith    Anschutz    748799
+13                     Scott Kinder    Anschutz    744074
+14                   Kewalin Samart    Anschutz    708908
+15                       Junxia Lin    Anschutz    676813
+16                         Yue Wang    Anschutz    544422
+17                     Shane Ridoux    Anschutz    509736
+18                       Megan Duff    Anschutz    498853
+19                   Esteban Lucero    Anschutz    477313
+20                  Shelby Andersen    Anschutz    462149
+21                       Daniel Kao    Anschutz    449805
+22                  Keenan Manpearl    Anschutz    443652
+23                      Nannan Wang    Anschutz    442050
+24                           Thomas    Anschutz    436613
+25                Jonathan Cardwell    Anschutz    380936
+26                     Jack Ustanik    Anschutz    376167
+27                   Kendra Ferrier    Anschutz    372504
+28                 Ryan Porterfield    Anschutz    357519
+29                 Andrew Goodspeed    Anschutz    338472
+30                   Abhirupa Ghosh    Anschutz    322200
+31                    Adriana Ivich    Anschutz    288305
+32                     Souha Tifour    Anschutz    276009
+33                  Revanth Krishna    Anschutz    263519
+34                   Matthew Fisher    Anschutz    263508
+35                     Yunjing Hong    Anschutz    250460
+36                   Maureen McHugo    Anschutz    237672
+37                    Austin Gillen    Anschutz    236737
+38                 Christopher Hill    Anschutz    217416
+39                     Alison Brack    Anschutz    196444
+40                          Han Zhu    Anschutz    195824
+41                      Sarah Slack    Anschutz    193302
+42                 Samantha Reynoso    Anschutz    192023
+43              Lauren Vanderlinden    Anschutz    183008
+44                    John O'Connor    Anschutz    154161
+45                     Charmie Vang    Anschutz    149224
+46                       Connor Eck    Anschutz    148301
+47                 Gabriella Albert    Anschutz    126969
+48                 Upasana Thakuria    Anschutz    124274
+49                   Sierra Niemiec    Anschutz    124038
+50              Sanjeev Janarthanan    Anschutz    114774
+51                      Arnav Gupta    Anschutz    111406
+52                  Abbigayl Burtis    Anschutz    109917
+53                     Evan Brenner    Anschutz    106888
+54                          Kristen    Anschutz    104629
+55                 Kentaro Yomogida    Anschutz    104534
+56                Laureline Logiaco    Anschutz     94210
+57                    Kent Riemondy    Anschutz     93136
+58                    Hitoshi Irabu    Anschutz     91128
+59                    Sarah Mentzer    Anschutz     86379
+60                      David Jones    Anschutz     85342
+61                       Weishan Li    Anschutz     82541
+62                      Haoyu Zhang    Anschutz     77011
+63                     Grace Akatsu    Anschutz     71903
+64                   Diego Restrepo    Anschutz     70585
+65                  Vitaly Kheyfets    Anschutz     70511
+66                          Etienne    Anschutz     63348
+67                    Chuangqi Wang    Anschutz     62769
+68   Santhanagopalan Krishnamoorthy    Anschutz     62500
+69                Lucas Gillenwater    Anschutz     61630
+70                     Vedant Vohra    Anschutz     60644
+71                    Kristen James    Anschutz     60560
+72                     Shirli Cohen    Anschutz     57765
+73                     Calvin Voong    Anschutz     55652
+74           Meher Preethi Boorgula    Anschutz     55357
+75                  Roman Schlimgen    Anschutz     55130
+76                   Aiden Taghinia    Anschutz     54467
+77                       Holly Vose    Anschutz     53631
+78                       Jade Young    Anschutz     53463
+79                       Kiran Paul    Anschutz     53023
+80                   Luciana Vargas    Anschutz     48630
+81                   Carson Wedding    Anschutz     46107
+82                    Shaoming Xiao    Anschutz     44542
+83                Josephina Hendrix    Anschutz     44438
+84                     Erin Baschal    Anschutz     43589
+85                 Elizabeth Geiger    Anschutz     42949
+86              Yoga Advaith Veturi    Anschutz     41757
+87                  Iain Konigsberg    Anschutz     41743
+88                     Tyler Gibson    Anschutz     41255
+89                     Megan Stumpf    Anschutz     40339
+90                      Harry Smith    Anschutz     38456
+91                        Rose Doss    Anschutz     37629
+92                     Yunus Ozekin    Anschutz     37506
+93                  Emma Lathouwers    Anschutz     35765
+94                       Mike Orman    Anschutz     34154
+95                         Xilin Su    Anschutz     33888
+96    Sakaiza Rasolofomanana Rajery    Anschutz     32601
+97                   Tonya Brunetti    Anschutz     30962
+98                     Parker Hicks    Anschutz     30805
+99                      Joanna Chau    Anschutz     28516
+100                   Madison Apgar    Anschutz     27845
+101                 Jay Hesselberth    Anschutz     27439
+102                    Aastha Kakar    Anschutz     26471
+103           Sudhanshu Shrivastava    Anschutz     26420
+104                   Nathaly Limon    Anschutz     23586
+105              Christopher Schaaf    Anschutz     23309
+106                  Jacklyn Ashmus    Anschutz     23094
+107                      Jacob Krol    Anschutz     22868
+108                       Alyx Gray    Anschutz     21930
+109               Alexandra Unangst    Anschutz     20980
+110           Fabio Simoes de Souza    Anschutz     19632
+111              Kaylee Rosenberger    Anschutz     19025
+112                     Ethan Wolfe    Anschutz     18898
+113                       Kyle Ross    Anschutz     18748
+114                      Xiying Fan    Anschutz     17909
+115                    Jeffrey Inen    Anschutz     15349
+116                 Milton Pividori    Anschutz     15142
+117                 Sarah Danielson    Anschutz     14872
+118                 Jonathan Shortt    Anschutz     14399
+119                     Korey Wylie    Anschutz     14187
+120                      Ava Warren    Anschutz     14016
+121                       Eric Katz    Anschutz     13760
+122                       Nanxi Guo    Anschutz     12900
+123                Katerina Terwelp    Anschutz     12620
+124                   Monica Ransom    Anschutz     11897
+125                  Jessica Nelson    Anschutz     10667
+126                    Alya Hussain    Anschutz     10604
+127                       Sizhao Lu    Anschutz     10510
+128                   Matthew Juber    Anschutz     10472
+129              Christian Anderson    Anschutz      9607
+130             Akshay Kumar Avvaru    Anschutz      9363
+131                      Elena Wall    Anschutz      9006
+132                   Suraju Sadeeq    Anschutz      8812
+133                  Elliott Brooks    Anschutz      8034
+134                        Tian Liu    Anschutz      7938
+135                 Michael Ntrakwa    Anschutz      7937
+136                  Jared Williams    Anschutz      7832
+137             Sarah Albers Fester    Anschutz      7727
+138                      Yifan Zhao    Anschutz      7037
+139              Pranav Padmanabhan    Anschutz      6678
+140                        Thu Doan    Anschutz      6573
+141             Juan Vargas Alvarez    Anschutz      6406
+142                      Sara Wirth    Anschutz      6404
+143                     Kevin Fotso    Anschutz      6181
+144                 Harriet Dashnow    Anschutz      6164
+145                    Elbay Aliyev    Anschutz      6087
+146        Lakshmi Venkata Karuturi    Anschutz      5843
+147                   Cameron Lowry    Anschutz      5795
+148                Stephanie Gipson    Anschutz      5677
+149                      Yichi Chen    Anschutz      5623
+150                     Alex Romero    Anschutz      5600
+151                  Amber Nashobaq    Anschutz      5496
+152                       MJ Foster    Anschutz      5291
+153                         Michael    Anschutz      5153
+154             Christopher Mancuso    Anschutz      5035
+155                 Rawan Elshobaky    Anschutz      4839
+156                         Thao Vu    Anschutz      4736
+157                     Shujian Lin    Anschutz      4731
+158                  Sana Paktinyar    Anschutz      4480
+159                    Maria Hansen    Anschutz      4431
+160                   Anna Dischler    Anschutz      4387
+161                    Brennan Chan    Anschutz      4261
+162                    Jordan Okada    Anschutz      4038
+163                  Matthew Osmond    Anschutz      3823
+164                    Noah Johnson    Anschutz      3796
+165                     Jace Aloway    Anschutz      3712
+166                 Nikita Pozdeyev    Anschutz      3463
+167               Samuel Greenfield    Anschutz      3426
+168                    Yaseer Sabir    Anschutz      3388
+169           Khosbayar Lkhagvadorj    Anschutz      2834
+170                        Meng Lin    Anschutz      2821
+171                 Jenna Tomkinson    Anschutz      2820
+172               Nathaniel Alzofon    Anschutz      2769
+173                      Ziwei Tian    Anschutz      2645
+174             William Baumgartner    Anschutz      2407
+175                 Alexander McKim    Anschutz      2290
+176                   Nathan Witmer    Anschutz      1979
+177                   Valerie Olsen    Anschutz      1959
+178                        Qihua Ye    Anschutz      1927
+179                 Raymond Lesiyon    Anschutz      1864
+180                 Maclean Sherren    Anschutz      1856
+181             Jessica Prendergast    Anschutz      1793
+182            Susana Lopez-Ignacio    Anschutz      1762
+183                    Kayla Medina    Anschutz      1760
+184               Alexzanah Griffin    Anschutz      1681
+185                    Lily Feldman    Anschutz      1680
+186                  Winston Hibler    Anschutz      1630
+187                  Alexis Assante    Anschutz      1604
+188                      Alex Camai    Anschutz      1596
+189                   Zoe Bedrosian    Anschutz      1588
+190                    Lena Cedrone    Anschutz      1513
+191                   Maizy Brasher    Anschutz      1481
+192                    Tushar Ghosh    Anschutz      1445
+193                    Tamim Shaikh    Anschutz      1443
+194                      Angela Ohm    Anschutz      1431
+195                   Emily Ekstrum    Anschutz      1399
+196                    Moomal Jatoi    Anschutz      1376
+197                Nicole Pihlstrom    Anschutz      1335
+198                   Emma Trujillo    Anschutz      1290
+199                       Yujie Guo    Anschutz      1289
+200                     Tada Vargas    Anschutz      1275
+201                  Emily DeCurtis    Anschutz      1119
+202                   David Farrell    Anschutz      1087
+203                Maggie Stanislaw    Anschutz      1087
+204                    Sutanu Nandi    Anschutz      1023
+205                     Anne Gumina    Anschutz       985
+206                     Alden Paine    Anschutz       893
+207               Karen Rossmassler    Anschutz       818
+208                 Grace Rodenberg    Anschutz       800
+209                      Ilin Joshi    Anschutz       765
+210              James Scott-Browne    Anschutz       751
+211                   Minami Matsuo    Anschutz       688
+212                  Charlie Repaci    Anschutz       642
+213                    Katie Marker    Anschutz       631
+214                    Emily Mastej    Anschutz       614
+215               Nicole Costantino    Anschutz       588
+216                    Negar Janani    Anschutz       587
+217                Johannes Strauss    Anschutz       580
+218                  Abigail Cozart    Anschutz       573
+219                      Edward Lau    Anschutz       544
+220                     Tessa Allen    Anschutz       541
+221               Stephanie Crowley    Anschutz       523
+222                  Elizabeth Wynn    Anschutz       510
+223                    David Bunten    Anschutz       473
+224                   Sarah Zweifel    Anschutz       465
+225                   Rahul Thadani    Anschutz       424
+226                  Kirk Hohsfield    Anschutz       421
+227             Sreerag Venugopalan    Anschutz       409
+228                   Marc DAntonio    Anschutz       409
+229                   Kritika Verma    Anschutz       404
+230               Benjamin Erickson    Anschutz       394
+231              Faisal Alquaddoomi    Anschutz       384
+232                   Maki Nakayama    Anschutz       383
+233                Sierra Simmerman    Anschutz       369
+234                 Stephanie DeVoe    Anschutz       355
+235                Shalom Gutierrez    Anschutz       350
+236                      Broc Burke    Anschutz       349
+237                  Keegan Carroll    Anschutz       348
+238                    Sourav Kumar    Anschutz       345
+239           Jessica Olivas-Corral    Anschutz       315
+240                      Nyjah Munn    Anschutz       309
+241                   Shaunak Kapur    Anschutz       307
+242                     Joanne Cole    Anschutz       297
+243                    Isabelle Hua    Anschutz       290
+244          Sai Eashan Vankamamidi    Anschutz       277
+245                       Fan Zhang    Anschutz       271
+246               Aishwarya Mandava    Anschutz       271
+247                     Jessica Lee    Anschutz       271
+248                 Shruti Raghavan    Anschutz       270
+249                   Michael Knitz    Anschutz       266
+250                   Honey Hendesi    Anschutz       255
+251                   Ellen Bamberg    Anschutz       252
+252                  Samantha Sills    Anschutz       246
+253                   Keshav Vembar    Anschutz       230
+254                     Emily Boyer    Anschutz       218
+255                 Alexandra Lucas    Anschutz       202
+256            Madison Cho-Richmond    Anschutz       200
+257                      Yvonne Cui    Anschutz       200
+258              Eric Januszkiewicz    Anschutz       188
+259                  Landon Buskirk    Anschutz       173
+260                    Asha Masoudi    Anschutz       169
+261                  Banabithi Bose    Anschutz       162
+262                  Morgan MacBeth    Anschutz       161
+263             Natasha Shrivastava    Anschutz       160
+264                   Erika Desonie    Anschutz       159
+265                       Qian Fang    Anschutz       156
+266                Mohammad Mansoor    Anschutz       153
+267                Brandon Hilliard    Anschutz       149
+268                 Hadeel Khammash    Anschutz       147
+269                     Megan Hupka    Anschutz       146
+270                Jonathan Teetsel    Anschutz       140
+271                 Davyd Sadovskyy    Anschutz       140
+272                     Xiuqing Wei    Anschutz       134
+273                   Sarah Stenske    Anschutz       127
+274                Roselyn Fierkens    Anschutz       124
+275                    Anisha Raghu    Anschutz       121
+276                 Cameron Mattson    Anschutz       113
+277                    Joshua Lingo    Anschutz       113
+278                Michael McMurray    Anschutz       111
+279                  Brittany Gomez    Anschutz       111
+280                    Sophie Hicks    Anschutz       110
+281                Anjelica Miranda    Anschutz       107
+282                Anna-Sophia Leon    Anschutz       104
+283                       Ted Shade    Anschutz        98
+284                Benjamin Willett    Anschutz        93
+285                    Kaili Curtis    Anschutz        91
+286                     Isaac Vigil    Anschutz        89
+287                 Annalise Sturno    Anschutz        88
+288                  Joseph Benthal    Anschutz        88
+289              Yuliana Romo-Perez    Anschutz        87
+290                     Paige Caley    Anschutz        85
+291                  Cheng-Chang Wu    Anschutz        81
+292               Clarissa Estrella    Anschutz        80
+293               Vanessa Langarica    Anschutz        77
+294                   Joshua Kirsch    Anschutz        77
+295             Tomas Ghebreslassie    Anschutz        76
+296                        Ying Jin    Anschutz        75
+297                    Jeremy Fleck    Anschutz        74
+298                  Scott Thompson    Anschutz        73
+299                  Nicole Messner    Anschutz        72
+300                   Jasalyn Avila    Anschutz        72
+301                   Tzu Lip Phang    Anschutz        71
+302                 Samuel Burciaga    Anschutz        69
+303                Karla Vela Lopez    Anschutz        68
+304                Raymond Pomponio    Anschutz        68
+305                     Kiely James    Anschutz        68
+306                     Luke Hanson    Anschutz        66
+307                 Benjamin Bearce    Anschutz        66
+308                 Thomas Carrillo    Anschutz        66
+309                    Rachel Cohen    Anschutz        65
+310                 Ashley Thompson    Anschutz        64
+311                 Gabriel Medrano    Anschutz        63
+312                    Huaizhen Cai    Anschutz        62
+313                     Erik Collet    Anschutz        62
+314                  Opeyemi Jegede    Anschutz        62
+315               Kristina Yamkovoy    Anschutz        62
+316                     Laura Islas    Anschutz        61
+317                       Sam Fulte    Anschutz        59
+318                       Laura Lim    Anschutz        56
+319            Ana Fairbanks-Mahnke    Anschutz        55
+320               Kayla Fairweather    Anschutz        54
+321                 Arianne Crossen    Anschutz        53
+322                   Cameron Manes    Anschutz        52
+323              Victoria Hoelscher    Anschutz        51
+324                   Angie Vazquez    Anschutz        50
+325                  Lily Mussallem    Anschutz        49
+326                  Courtney Cowan    Anschutz        46
+327                      Karen Chau    Anschutz        45
+328                   Kristin Uhler    Anschutz        45
+329                     Helen Gomez    Anschutz        43
+330                     Sydney Hall    Anschutz        42
+331                  Lauren Atencio    Anschutz        42
+332                 Michael Harbell    Anschutz        42
+333                  Roxanne McPeck    Anschutz        40
+334               Matthew Mondragon    Anschutz        39
+335                     Sofia Celli    Anschutz        39
+336                  Jessica Beynor    Anschutz        39
+337                   Evelyn Ibarra    Anschutz        36
+338                 Amanda Anderson    Anschutz        36
+339                 Yoshiki Sakurai    Anschutz        35
+340              Mary Grace Carroll    Anschutz        32
+341                   Nicole Hansen    Anschutz        29
+342              Courtney Schiebout    Anschutz        27
+343                    Xiaoyuan Liu    Anschutz        26
+344                Carlos Goncalves    Anschutz        24
+345                    Mariah Meyer    Anschutz        24
+346                        Hao Yuan    Anschutz        21
+347                  Ashley Scadden    Anschutz        20
+348                  Elizabeth Nail    Anschutz        20
+349                 Thomas Salvetti    Anschutz        19
+350                    John Finigan    Anschutz        19
+351                   Jessica Smith    Anschutz        19
+352           Navin Kumar Balagopal    Anschutz        16
+353                       Le Yiphyo    Anschutz        16
+354                    Kayla Holder    Anschutz        14
+355  Angela Sofia Burkhart Colorado    Anschutz        14
+356                     Megan Kraus    Anschutz        14
+357                 Cheyanne Durham    Anschutz        14
+358                Uddeep Chaudhury    Anschutz        13
+359               William Patterson    Anschutz        12
+360                      Juan Pagan    Anschutz        12
+361                   McKenna Casey    Anschutz        12
+362                   Kayla Johnson    Anschutz        12
+363                    Trevor Isner    Anschutz        12
+364                   Aileen Button    Anschutz        12
+365                    Teresa Smith    Anschutz        12
+366                  Shivang Mistry    Anschutz        12
+367                 Qierra Brockman    Anschutz        12
+368                Cameron Morrison    Anschutz        12
+369                      Ian Purvis    Anschutz        12
+370              Mansooreh Ahmadian    Anschutz        12
+371                 Jonathan Kurche    Anschutz        10
+372     julian grandvalletcontreras    Anschutz        10
+373                    Yjuliana Tin    Anschutz         8
+374                Natalie Davidson    Anschutz         8
+375                    Matthew Hill    Anschutz         7
+376                   James DiLisio    Anschutz         6
+377                     Lauren Kerr    Anschutz         6
+378                 Alyssa Margolis    Anschutz         5
+379                     Marina Good    Anschutz         5
+380               Nikhil Madhuripan    Anschutz         5
+381                        Ting Lou    Anschutz         5
+382                Gabrielle Vragel    Anschutz         5
+383                    Ananya Raghu    Anschutz         4
+384                  Phillip Gilley    Anschutz         4
+385                    Gidon Felsen    Anschutz         3
+386                   Laurent Gapin    Anschutz         3
+387                 Jessica Borgers    Anschutz         3
+388                      Ahmet Eken    Anschutz         3
+389                   Lauren Immink    Anschutz         3
+390                      Ling Thang    Anschutz         3
+391                  Crystal Musser    Anschutz         3
+392                   Praveer Singh    Anschutz         2
+393                         Vy Tran    Anschutz         2
+394           David Beltran-Cardona    Anschutz         2
+395                   Galen Squiers    Anschutz         2
+396                      Julie Raab    Anschutz         2
+397                   Shiomi Junker    Anschutz         2
+398                 Zachary Caterer    Anschutz         2
+399                    John DeSisto    Anschutz         1
+400              Alexandria Dickson    Anschutz         1
+401                     Ann Strange    Anschutz         1
+402                Katherina Cortes    Anschutz         1
+403                       Yanyan Xu    Anschutz         1
+404                   Ali Abrowshan    Anschutz         1
+405                   Caitlin Lewis    Anschutz         1
+406             Christopher Collora    Anschutz         1
+407                    Josh Hunkins    Anschutz         1
+408                  Molly McGuckin    Anschutz         1
+409                   Logan Barrios    Anschutz         1
+410                     Lena Hansen    Anschutz         1
+411                   Pranav Sristy    Anschutz         1
+412                   Lucia Guatney    Anschutz         1
+413            Ishanu Chattopadhyay    Anschutz         1
+414                  Dylan Sarbaugh    Anschutz         1
+415         Siddharth Krishnamurthy    Anschutz         1
+416                  David Westerly    Anschutz         1
+417                     Jack Pattee    Anschutz         1
+418                     Ralf Dagdag    Anschutz         1
+Compute and wait time for mlippincott@xsede.org by partition for the last 10000 days
+            hours_computed      wait  wait_ratio
+partition
+aa100          1739.298056  112655.0   64.770382
+acompile         95.021111       0.0    0.000000
+al40              6.516944     657.0  100.814117
+amem          11456.211667  160462.0   14.006550
+ami100            0.191944       0.0    0.000000
+amilan       169381.046944   42785.0    0.252596
+amilan128c        3.502778       0.0    0.000000
+atesting          0.055000       0.0    0.000000
+atesting_+        6.298056       0.0    0.000000
+mlippincott@xsede.org has waited a total of 36.14 years in queue in the last 10000 days
+mlippincott@xsede.org has used a total of 20.85 years of compute time in the last 10000 days
+mlippincott@xsede.org has used a total of 1329810 SUs in the last 10000 days for a total of 151.8 years if 1 SU = 1 hour of compute time

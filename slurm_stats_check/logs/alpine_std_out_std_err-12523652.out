@@ -1,0 +1,93 @@
+Lmod has detected the following error: The following module(s) are unknown:
+"mambaforge"
+
+Please check the spelling or version number. Also try "module spider ..."
+It is also possible your cache file is out-of-date; it may help to try:
+  $ module --ignore-cache load "mambaforge"
+
+Also make sure that all modulefiles written in TCL start with the string
+#%Module
+
+
+
+no change     /curc/sw/anaconda3/2023.09/condabin/conda
+no change     /curc/sw/anaconda3/2023.09/bin/conda
+no change     /curc/sw/anaconda3/2023.09/bin/conda-env
+no change     /curc/sw/anaconda3/2023.09/bin/activate
+no change     /curc/sw/anaconda3/2023.09/bin/deactivate
+no change     /curc/sw/anaconda3/2023.09/etc/profile.d/conda.sh
+no change     /curc/sw/anaconda3/2023.09/etc/fish/conf.d/conda.fish
+no change     /curc/sw/anaconda3/2023.09/shell/condabin/Conda.psm1
+no change     /curc/sw/anaconda3/2023.09/shell/condabin/conda-hook.ps1
+no change     /curc/sw/anaconda3/2023.09/lib/python3.11/site-packages/xontrib/conda.xsh
+no change     /curc/sw/anaconda3/2023.09/etc/profile.d/conda.csh
+modified      /home/mlippincott@xsede.org/.bashrc
+
+==> For changes to take effect, close and re-open your current shell. <==
+
+[NbConvertApp] Converting notebook notebooks/slurm_stats.ipynb to script
+[NbConvertApp] Writing 6465 bytes to scripts/slurm_stats.py
+Top 50 users by usage for the last 30 days
+                       Login                    Proper Name Institution    Used
+0        abeckwith@xsede.org                 Aaron Beckwith    Anschutz  385703
+1          sridoux@xsede.org                   Shane Ridoux    Anschutz  241423
+2         kferrier@xsede.org                 Kendra Ferrier    Anschutz   71694
+3          swhite3@xsede.org                 Samantha White    Anschutz   66182
+4         nrafaels@xsede.org                   Nick Rafaels    Anschutz   62912
+5         sreynoso@xsede.org               Samantha Reynoso    Anschutz   54280
+6        drestrepo@xsede.org                 Diego Restrepo    Anschutz   48310
+7           aivich@xsede.org                  Adriana Ivich    Anschutz   43403
+8          aghosh5@xsede.org                 Abhirupa Ghosh    Anschutz   40754
+9        jhoffman2@xsede.org                   Jill Hoffman    Anschutz   40662
+10       kyomogida@xsede.org               Kentaro Yomogida    Anschutz   35945
+11         ksamart@xsede.org                 Kewalin Samart    Anschutz   27908
+12     mlippincott@xsede.org            Micahael Lippincott    Anschutz   21264
+13     elathouwers@xsede.org                Emma Lathouwers    Anschutz   18319
+14  ldebritovargas@xsede.org                 Luciana Vargas    Anschutz   15333
+15         jmejia1@xsede.org                     Josh Mejia    Anschutz   13369
+16           cvang@xsede.org                   Charmie Vang    Anschutz   10905
+17      grahampeet@xsede.org                    Graham Peet    Anschutz   10727
+18          nwang1@xsede.org                    Nannan Wang    Anschutz    9774
+19          sslack@xsede.org                    Sarah Slack    Anschutz    9202
+20              krwe0001_amc                        Kristen    Anschutz    7668
+21    lgillenwater@xsede.org              Lucas Gillenwater    Anschutz    7036
+22    krosenberger@xsede.org             Kaylee Rosenberger    Anschutz    6766
+23       ebrenner1@xsede.org                   Evan Brenner    Anschutz    5214
+24            dkao@xsede.org                     Daniel Kao    Anschutz    5175
+25            ceck@xsede.org                     Connor Eck    Anschutz    5101
+26           aeg22@xsede.org               Andrew Goodspeed    Anschutz    4993
+27          jinamo@xsede.org                      Jun Inamo    Anschutz    4839
+28         srajery@xsede.org  Sakaiza Rasolofomanana Rajery    Anschutz    4191
+29       rkrishna1@xsede.org                Revanth Krishna    Anschutz    3852
+30       jonpitsch@xsede.org                Jonathan Pitsch    Anschutz    3363
+31            sren@xsede.org                     Siyang Ren    Anschutz    3252
+32        hdashnow@xsede.org                Harriet Dashnow    Anschutz    3232
+33        jnelson1@xsede.org                 Jessica Nelson    Anschutz    3121
+34       lkaruturi@xsede.org       Lakshmi Venkata Karuturi    Anschutz    2811
+35        kheyfetv@xsede.org                Vitaly Kheyfets    Anschutz    2810
+36   lvanderlinden@xsede.org            Lauren Vanderlinden    Anschutz    2775
+37        ebaschal@xsede.org                   Erin Baschal    Anschutz    2687
+38        joconnor@xsede.org                  John O'Connor    Anschutz    2552
+39  fsimoesdesouza@xsede.org          Fabio Simoes de Souza    Anschutz    2296
+40              etda0001_amc                        Etienne    Anschutz    2210
+41         mmchugo@xsede.org                 Maureen McHugo    Anschutz    1917
+42         aburtis@xsede.org                Abbigayl Burtis    Anschutz    1780
+43         hsmith1@xsede.org                    Harry Smith    Anschutz    1667
+44        hzhang24@xsede.org                    Haoyu Zhang    Anschutz    1571
+45          morman@xsede.org                     Mike Orman    Anschutz    1463
+46              thda0001_amc                         Thomas    Anschutz    1380
+47        tgibson2@xsede.org                   Tyler Gibson    Anschutz    1370
+48            mlin@xsede.org                       Meng Lin    Anschutz    1249
+49      kvinodpaul@xsede.org                     Kiran Paul    Anschutz    1203
+Compute and wait time for mlippincott@xsede.org by partition for the last 30 days
+            hours_computed   wait  wait_ratio
+partition
+aa100            17.063056  471.0   27.603497
+acompile         26.778056    0.0    0.000000
+al40              6.274167  629.0  100.252358
+amem             49.711111    1.0    0.020116
+amilan         1309.132222  947.0    0.723380
+atesting_+        3.605556    0.0    0.000000
+mlippincott@xsede.org has waited a total of 85.33 days in queue in the last 30 days
+mlippincott@xsede.org has used a total of 58.86 days of compute time in the last 30 days
+mlippincott@xsede.org has used a total of 21264 SUs in the last 30 days for a total of 2.43 years
