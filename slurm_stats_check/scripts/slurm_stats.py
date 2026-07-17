@@ -6,6 +6,7 @@
 
 import argparse
 import pathlib
+from pprint import pprint
 
 import pandas as pd
 
@@ -102,7 +103,7 @@ if not in_notebook:
 else:
     days = 10000
     user = "mlippincott@xsede.org"
-    n = 500
+    n = -1
 
 
 acct_file_path = pathlib.Path("../slurm_stats_files/").resolve(strict=True)
@@ -117,58 +118,125 @@ acct_file_path = acct_files[0]  # get the most recent accounts file
 jobs_file_path = job_files[0]  # get the most recent jobs file
 
 
-# In[5]:
+# In[6]:
 
 
 # read the file the first row has the column names and the rest of the rows are the data
 
 df = pd.read_csv(acct_file_path, sep="|", header=0, skiprows=1)
+# drop row if "SU" or Cluster is in the cluster columns
+df = df[~df["Cluster"].str.contains("SU|Cluster", na=False)]
+# drop login if na
+df = df.dropna(subset=["Login"])
+df
 # drop the columns that are not needed
 df = df.drop(
     columns=[
         "Cluster",
-        "Account",
         "TRES Name",
     ]
 )
-df["Institution"] = "Anschutz"
+df["Used"] = df["Used"].astype(int)
 
 
-# In[ ]:
+# In[7]:
 
 
-df = df.groupby(["Login", "Proper Name", "Institution"]).sum().reset_index()
+user_df = (
+    df.groupby(
+        [
+            "Login",
+            "Proper Name",
+        ]
+    )
+    .sum()
+    .reset_index()
+)
+user_df.insert(
+    2,
+    "Institution",
+    user_df["Account"].apply(
+        lambda x: (
+            "CSU"
+            if "csu" in x.lower()
+            else (
+                "AMC"
+                if "amc" in x.lower()
+                else (
+                    "UCB"
+                    if "ucb" in x.lower()
+                    else "RMACC" if "rmacc" in x.lower() else "Other"
+                )
+            )
+        )
+    ),
+)
+df.insert(
+    2,
+    "Institution",
+    df["Account"].apply(
+        lambda x: (
+            "CSU"
+            if "csu" in x.lower()
+            else (
+                "AMC"
+                if "amc" in x.lower()
+                else (
+                    "UCB"
+                    if "ucb" in x.lower()
+                    else "RMACC" if "rmacc" in x.lower() else "Other"
+                )
+            )
+        )
+    ),
+)
+
 # order the data by used
-df = df.sort_values(by="Used", ascending=False)
+user_df = user_df.sort_values(by="Used", ascending=False)
 # remove NaN values
-df = df.dropna()
+user_df = user_df.dropna()
 # remove 0 values
-df = df[df.Used != 0]
-# group by Login and sum the values
+user_df = user_df[user_df.Used != 0]
+user_df.drop(columns=["Account"], inplace=True)
+user_df.reset_index(drop=True, inplace=True)
+institution_df = df.groupby(["Institution"]).sum().reset_index()
+institution_df.drop(columns=["Login", "Proper Name", "Account"], inplace=True)
+institution_df.sort_values(by="Used", ascending=False, inplace=True)
 
-df.reset_index(drop=True, inplace=True)
+
+# In[8]:
+
+
 # get the total usage for the user
-SUs = df[df["Login"] == user]["Used"].sum()
+SUs = user_df[user_df["Login"] == user]["Used"].sum()
 # show all rows
-pd.set_option("display.max_rows", n)
+
 # drop the login column
 df = df.drop(columns=["Login"])
 # pretty print the top 15 users and their usage
 if n == -1:
-    print(f"Top {len(df)} users by usage for the last {days} days")
-    print(df)
+    pd.set_option("display.max_rows", df.shape[0])
+    pprint(f"Total SUs for each institution for the last {days} days")
+    pprint(institution_df)
+    pprint(f"Top {len(user_df)} users by usage for the last {days} days")
+    pprint(user_df)
+
 else:
-    print(f"Top {n} users by usage for the last {days} days")
-    print(df.head(n))
+    pd.set_option("display.max_rows", n)
+    pprint(f"Total SUs for each institution for the last {days} days")
+    pprint(institution_df.head(n))
+    pprint(f"Top {n} users by usage for the last {days} days")
+    pprint(user_df.head(n))
+
 
 # write the data to a file
-df.to_csv(
+user_df.to_csv(
     f"../results/{acct_file_path.stem.strip('_accounts_date')}_top_users.csv",
     index=False,
 )
 
 
-# In[7]:
+# In[9]:
 
 
 # load the job stats file
@@ -207,7 +275,7 @@ print(f"Compute and wait time for {user} by partition for the last {days} days")
 print(hours_df)
 
 
-# In[8]:
+# In[10]:
 
 
 # calculate the total wait time in hours
