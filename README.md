@@ -1,7 +1,7 @@
 # Slurm Guide
 
-    
-For bash scripts this line should be the first line of code in every script 
+
+For bash scripts this line should be the first line of code in every script
 ```
 #!/bin/bash  # Shebang slash bin slash bash
 ```
@@ -19,7 +19,7 @@ Next are the SBATCH commands that tell slurm scheduler how to handle your job
 #SBATCH --mem=16G       # 16 Gigabytes
 #SBATCH --output=out_%j.log
 #SBATCH -n <number>     # number of tasks
-#SBATCH --mail-type=NONE, BEGIN, END, FAIL, ALL   # Mail events 
+#SBATCH --mail-type=NONE, BEGIN, END, FAIL, ALL   # Mail events
 #SBATCH --mail-user=email@ufl.edu
 ```
 ### Load Modules
@@ -34,16 +34,16 @@ module load # loads module (hint: us the tab key to autocomplete)
 sbatch script.sh  # submit script.sh
 ```
 ```
-squeue -u {User}  # check submitted jobs in queue 
+squeue -u {User}  # check submitted jobs in queue
 ```
 ```
-scancel {jobid}  # Cancel job  
+scancel {jobid}  # Cancel job
 ```
 
 #### Example SBATCH
 ```
 #!/bin/bash
-#SBATCH --job-name=Slurm_job    # job name "slurm_job)
+#SBATCH --job-name=Slurm_job    # job name "slurm_job"
 #SBATCH -t 1-23         # Time 1 day, 23 hours
 #SBATCH --mem=16G       # 16 Gigabytes of RAM
 #SBATCH --output=out_%j.log          # std output/error file

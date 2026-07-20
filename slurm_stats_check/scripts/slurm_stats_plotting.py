@@ -126,7 +126,7 @@ acct_file_path = acct_files[0]  # get the most recent accounts file
 jobs_file_path = job_files[0]  # get the most recent jobs file
 
 
-# In[20]:
+# In[ ]:
 
 
 # load the job stats file
@@ -162,6 +162,7 @@ hours_df = df.groupby("partition").agg({"hours_computed": "sum", "wait": "sum"})
 
 hours_df["wait_ratio"] = hours_df["wait"] / hours_df["hours_computed"]
 print(f"Compute and wait time for {user} by partition for the last {days} days")
+print(df.shape)
 print(hours_df)
 
 
@@ -203,7 +204,7 @@ plt.ylabel("Hours of compute")
 plt.show()
 
 
-# In[10]:
+# In[9]:
 
 
 plt.figure(figsize=(20, 10))
@@ -218,4 +219,3 @@ sns.barplot(
 plt.xlabel("Year")
 plt.ylabel("Hours of compute")
 plt.show()
-
