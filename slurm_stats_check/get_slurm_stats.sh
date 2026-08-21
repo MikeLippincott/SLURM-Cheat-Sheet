@@ -2,8 +2,8 @@
 #SBATCH --nodes=1
 #SBATCH --ntasks=7
 #SBATCH --time=14:00:00
-#SBATCH --partition=amilan
-#SBATCH --qos=normal
+#SBATCH --partition=acpu
+#SBATCH --qos=cpu-normal
 #SBATCH --output=logs/alpine_std_out_std_err-%j.out
 
 # Load the slurm module
